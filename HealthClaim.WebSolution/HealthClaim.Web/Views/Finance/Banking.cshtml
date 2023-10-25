@@ -1,0 +1,401 @@
+﻿<link href="~/css/custom/dfccil1011_02.css" rel="stylesheet" asp-append-version="true" />
+
+<style>
+    .tr-border-none {
+        border-bottom: none !important;
+    }
+</style>
+
+<div class="col-lg-12 grid-margin stretch-card">
+
+    <div class="card">
+        <div class="card-body">
+            <div class="row">
+                <div class="col-md-4 col-lg-4 col-sm-6  mb-2 mt-2">
+                    <div class="card-icon-strech">
+                        <div class="Member-icon">
+                            <i class="fa fa-users " aria-hidden="true"></i>
+                        </div>
+                        <div>
+                            <p class="mb-0 member-para">Total Notificaction</p>
+                            <span class="member">30</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 col-lg-4 col-sm-6  mb-2 mt-2">
+                    <div class="card-icon-strech">
+                        <div class="Member-icon">
+                            <i class="fa fa-user"></i>
+                        </div>
+                        <div>
+                            <p class="mb-0 member-para">Advance Pay</p>
+                            <span class="member">20</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 col-lg-4   mb-2 mt-2">
+                    <div class="card-icon-strech">
+                        <div class="Member-icon">
+                            <i class="fa fa-desktop"></i>
+                        </div>
+                        <div>
+                            <p class="mb-0 member-para">Other</p>
+                            <span class="member">10</span>
+                        </div>
+                    </div>
+                </div>
+
+                @*  <div class="col-md-6">
+                <a asp-action="AdvanceRequest" asp-controller="Home" class="btn btn-primary Request">New Request</a>
+                </div> *@
+            </div>
+
+        </div>
+    </div>
+
+</div>
+@*   table section *@
+<div class="col-lg-12 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <div class="row">
+                <div class="col-md-10">
+                    <h4 class="card-title">Advance List</h4>
+                </div>
+                <div class="col-md-2">
+                    <select class="form-control">
+                        <option>Pending</option>
+                        <option>Open</option>
+                        <option>Complete</option>
+                        <option>All</option>
+                    </select>
+                </div>
+            </div>
+
+            <div class="table-responsive">
+                <table class="table table_mobile">
+                    <thead>
+                        <tr>
+                            <th>Sr No</th>
+                            <th>Employee Name</th>
+                            <th>Pateint Name</th>
+                            <th>Requested Date</th>
+                            <th>Amount(₹)</th>
+                            <th>View</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>1</td>
+                            <td>Jacob</td>
+                            <td>John</td>
+                            <td>12 May 2017</td>
+                            <td>12000.00</td>
+                            <td><button class="btn btn-success-details">Details</button></td>
+                        </tr>
+                        <tr>
+                            <td>2</td>
+                            <td>Messsy</td>
+                            <td>Eion</td>
+                            <td>15 May 2017</td>
+                            <td>10000.00</td>
+                            <td><button class="btn btn-success-details">Details</button></td>
+                        </tr>
+                        <tr>
+                            <td>3</td>
+                            <td>John</td>
+                            <td>John</td>
+                            <td>14 May 2017</td>
+                            <td>17000.00</td>
+                            <td><button class="btn btn-success-details">Details</button></td>
+                        </tr>
+                        <tr>
+                            <td>4</td>
+                            <td>Peter</td>
+                            <td>Perry</td>
+                            <td>16 May 2017</td>
+                            <td>16000.00</td>
+                            <td><button class="btn btn-success-details">Details</button></td>
+                        </tr>
+                        <tr>
+                            <td>5</td>
+                            <td>Dave</td>
+                            <td>josh</td>
+                            <td>20 May 2017</td>
+                            <td>14000.00</td>
+                            <td><button class="btn btn-success-details">Details</button></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+@*  patient details *@
+<div class="col-lg-12 grid-margin stretch-card">
+
+    <div class="card">
+        <div class="card-body">
+            <div class="row">
+                <div class="col-lg-3 col-md-3">
+                    <div class="patient-details">
+                        <h5 class="patient-haeding">Patient Name</h5>
+                        <h3 class="patient-detais">Mayawati devi</h3>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-3">
+                    <div class="patient-details">
+                        <h5 class="patient-haeding">Relation</h5>
+                        <h3 class="patient-detais">Mother</h3>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-3">
+                    <div class="patient-details">
+                        <h5 class="patient-haeding">D.O.B</h5>
+                        <h3 class="patient-detais">09/11/1998</h3>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-3">
+                    <div class="patient-details">
+                        <h5 class="patient-haeding">Gender</h5>
+                        <h3 class="patient-detais">Female</h3>
+                    </div>
+                </div>
+
+            </div>
+            <hr />
+            <div class="row">
+                <div class="col-lg-3 col-md-3">
+                    <div class="patient-details">
+                        <h5 class="patient-haeding">Advance Request Date</h5>
+                        <h3 class="patient-detais">09/12/2023</h3>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-4">
+                    <div class="patient-details">
+                        <h5 class="patient-haeding">Approved Requested Amount (INR)</h5>
+                        <h3 class="patient-detais">80,000.00</h3>
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-2">
+                    <div class="patient-details">
+                        <h5 class="patient-haeding">Status</h5>
+                        <h3 class="patient-detais">Pending Approval</h3>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-3">
+                    <div class="patient-details">
+                        <h5 class="patient-haeding">Approval Date</h5>
+                        <h3 class="patient-detais">15-10-23</h3>
+                    </div>
+                </div>
+
+            </div>
+            <hr />
+            <div class="col-12 grid-margin advanced-approved">
+                <div class="card">
+                    <div class="card-body">
+
+                        <form class="form-sample">
+
+                            <div class="row">
+
+                                <div class="col-md-6">
+                                    <div class="form-group row">
+                                        <label class="col-sm-5 col-form-label">Hospital Name</label>
+                                        <div class="col-sm-7">
+                                            <input type="text" class="form-control" value="Applo">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="form-group row">
+                                        <label class="col-sm-5 col-form-label">Hospital Reg. No.</label>
+                                        <div class="col-sm-7">
+                                            <input type="text" class="form-control" value="25375">
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="col-md-6">
+                                    <div class="form-group row">
+                                        <label class="col-sm-5 col-form-label">Doctor Name</label>
+                                        <div class="col-sm-7">
+                                            <input type="text" class="form-control" value="Dr. Mathur">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="form-group row addmission-flex">
+                                        <div class="">
+                                            <label class="col-form-label">Diagnosis</label>
+                                        </div>
+                                        <div class="btn-view">
+                                            <button class="btn"><i class="fa fa-eye" aria-hidden="true"></i> View File</button>
+                                        </div>
+                                    </div>
+                                </div>
+
+
+                                <div class="col-md-6">
+                                    <div class="form-group row">
+                                        <label class="col-sm-5 col-form-label">Likely Date of Admission</label>
+                                        <div class="col-sm-7">
+                                            <input type="text" class="form-control" value="30/2/2023">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="form-group row addmission-flex1">
+                                        <div class="">
+                                            <label class="col-form-label">Admission Advice</label>
+                                        </div>
+                                        <div class="btn-view">
+                                            <button class="btn"><i class="fa fa-eye" aria-hidden="true"></i> View File</button>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="form-group row addmission-flex">
+                                        <div class="">
+                                            <label class="col-form-label">Other</label>
+                                        </div>
+                                        <div class="btn-view">
+                                            <button class="btn"><i class="fa fa-eye" aria-hidden="true"></i> View File</button>
+                                        </div>
+                                    </div>
+                                </div>
+
+
+                            </div>
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <div class="form-group row">
+                                        <label class="col-sm-5 col-form-label">Estimate Amount</label>
+                                        <div class="col-sm-7">
+                                            <input type="text" class="form-control" value="1,00,000.00">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-3">
+                                    <button class="btn"><i class="fa fa-eye" aria-hidden="true"></i> View File</button>
+                                </div>
+
+                            </div>
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <div class="form-group row">
+                                        <label class="col-sm-5 col-form-label">Advanced Requested</label>
+                                        <div class="col-sm-7">
+                                            <input type="text" class="form-control" value="80,000.00">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="form-group row">
+                                        <label class="col-sm-5 col-form-label">Approved Amount</label>
+                                        <div class="col-sm-7">
+                                            <input type="text" class="form-control" value="70,000.00">
+                                        </div>
+                                    </div>
+                                </div>
+                                <!--div class="col-md-12">
+                                    <div class="d-flex justify-content-end">
+                                        <button class="btn btn-success-details">Approved and send to Finance</button>
+                                    </div>
+                                </!--div-->
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+@*   Finance Details View Only *@
+<div class="col-lg-12 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Financial Details</h4>
+
+            <form>
+                <div class="table-responsive">
+                    <table class="table table_mobile">
+                        <thead>
+                            <tr>
+                                <th>Sr No</th>
+                                <th>Type</th>
+                                <th>Comments</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>1</td>
+                                <td>Reference Date</td>
+                                <td>
+                                    15-10-23
+                                </td>
+                            </tr>
+                            <tr class="tr-border-none">
+                                <td>2</td>
+                                <td>SAP Reference No.</td>
+                                <td>SAP36868</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+@*   Banking Details *@
+<div class="col-lg-12 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Banking Details</h4>
+
+            <form>
+                <div class="table-responsive">
+                    <table class="table table_mobile">
+                        <thead>
+                            <tr>
+                                <th>Sr No</th>
+                                <th>Type</th>
+                                <th>Comments</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>1</td>
+                                <td>Transaction Date</td>
+                                <td><input type="date" class="form-control"></td>
+                            </tr>
+                            <tr>
+                                <td>2</td>
+                                <td>UTR No.</td>
+                                <td><textarea class="form-control" rows="2" cols="10"></textarea></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="form-check">
+                            <label class="form-check-label mt-4 mb-3 pr-4">
+                                <input type="checkbox" class="form-check-input">
+                                I confirmed the transaction has been completed as per the mentioned details.<i class="input-helper"></i>
+                            </label>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="d-flex justify-content-end pr-4 mt-3">
+                            <input type="submit" class="btn btn-success-details">
+                        </div>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,337 @@
+﻿<link href="~/css/custom/dfccil1011_03.css" rel="stylesheet" />
+<div class="container">
+
+    <div class="row info-cnt">
+        <h3 class="table-head"><i class="fa-solid fa-user-tie"></i>About Me</h3>
+        <div class="col-md-3 info-box">
+            <div class="info-column">
+                <span class="info-title">Employee ID</span>
+                <br />
+                <strong class="info">0018</strong>
+            </div>
+            <div class="info-column">
+                <span class="info-title">Age</span>
+                <br />
+                <strong class="info">35</strong>
+            </div>
+            <div class="info-column">
+                <span class="info-title">Mobile No</span>
+                <br />
+                <strong class="info">7783887656</strong>
+            </div>
+        </div>
+
+        <div class="col-md-3 info-box">
+            <div class="info-column">
+                <span class="info-title">Date of Joining</span>
+                <br />
+                <strong class="info">08/11/22</strong>
+            </div>
+            <div class="info-column">
+                <span class="info-title">Employee Name</span>
+                <br />
+                <strong class="info">shubham</strong>
+            </div>
+            <div class="info-column">
+                <span class="info-title">Gender</span>
+                <br />
+                <strong class="info">Male</strong>
+            </div>
+        </div>
+
+        <div class="col-md-3 info-box">
+            <div class="info-column">
+                <span class="info-title">Date of Birth</span>
+                <br />
+                <strong class="info">08/11/97</strong>
+            </div>
+            <div class="info-column">
+                <span class="info-title">Official E-Mail ID</span>
+                <br />
+                <strong class="info">shubham@cetpainfo.com</strong>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container info-cnt">
+    <div class="flex-around">
+        <h3 class="table-head2"><i class="fa-solid fa-user-tie"></i>My Family</h3>
+        <button type="button" class="btn btn1" data-toggle="modal" data-target="#myModal">
+            Enlist Dependent &nbsp;&nbsp;<i class="fa-solid fa-plus"></i>
+        </button>
+    </div>
+    <div>
+        <div class="table-top">
+            <h3>Family Details</h3>
+        </div>
+        <div style="width: 100%; overflow-x: scroll;">
+            <table class="table table-bordered">
+                <thead align="center">
+                    <tr>
+                        <th>Name</th>
+                        <th>Relation</th>
+                        <th>Date of Birth</th>
+                        <th>Age</th>
+                        <th>Gender</th>
+                        <th>Action</th>
+                    </tr>
+                </thead>
+                <tbody id="tbodyContent">
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="myModal" role="dialog">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                <div class="modal-head">
+                    <h3>Add New Member</h3>
+                </div>
+            </div>
+            <div class="modal-body">
+                <form action"" method="" class="row g-3 needs-validation" id="formValidation" novalidate>
+                    <div class="col-md-6 mb-5 form-icon">
+                        <label for="validationCustom01" class="form-label">Name</label>
+                        <input type="text" class="form-control" id="txtMemberName" placeholder="Name" required />
+                    </div>
+                    <div class="col-md-6 mb-5">
+                        <label for="validationCustom01" class="form-label">Relation</label>
+                        <select class="form-control" id="ddlEmployeerelation">
+                            <option value="0">Select One</option>
+                            @* <option>Spouse</option>
+                            <option>Son</option>
+                            <option>Daughter</option>
+                            <option>Mother</option>
+                            <option>Father</option>
+                            <option>Mother in Law</option>
+                            <option>Father in Law</option> *@
+                        </select>
+                        <div class="invalid-feedback">Example invalid select feedback</div>
+                    </div>
+                    <div class="col-md-12 mb-5" id="hiddenField" style="display: none;">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="row">
+                                    <div class="col-md-12 mb-4">
+                                        <div class="custom-file">
+                                            <input type="file" class="custom-file-input" id="itrFile">
+                                            <label class="custom-file-label" for="customFile">Upload ITR +</label>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-12 mb-2">
+                                        <div class="form-group">
+                                            <label for="exampleFormControlSelect1">Financial Year</label>
+                                            <select class="form-control form-control-lg" id="ddlFinancialYear">
+                                                <option selected>2023-2024</option>
+                                            </select>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-12">
+                                        <div class="form-group">
+                                            <label for="exampleFormControlSelect1">Annual Income</label>
+                                            <input type="text" class="form-control" id="txtAnnualIncome" placeholder="Annual Income" required />
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="row">
+                                    <div class="col-md-12 mb-4">
+                                        <div class="custom-file">
+                                            <input type="file" class="custom-file-input" id="panFile">
+                                            <label class="custom-file-label" for="customFile">Upload Pan Card +</label>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-12">
+                                        <label for="validationCustom01" class="form-label">PAN No</label>
+                                        <input type="text" class="form-control" placeholder="PAN No" id="txtPanNo" required />
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 mb-2">
+                        <label for="validationCustom01" class="form-label">Date of Birth</label>
+                        <div style="display: flex;">
+                            <div>
+                                <select class="form-control" id="ddlDate">
+                                    <option>DD</option>
+                                    <option>01</option>
+                                    <option>02</option>
+                                    <option>03</option>
+                                    <option>04</option>
+                                    <option>05</option>
+                                    <option>06</option>
+                                    <option>07</option>
+                                    <option>08</option>
+                                    <option>09</option>
+                                    <option>10</option>
+                                    <option>11</option>
+                                    <option>12</option>
+                                    <option>13</option>
+                                    <option>14</option>
+                                    <option>15</option>
+                                    <option>16</option>
+                                    <option>17</option>
+                                    <option>18</option>
+                                    <option>19</option>
+                                    <option>20</option>
+                                    <option>21</option>
+                                    <option>22</option>
+                                    <option>23</option>
+                                    <option>24</option>
+                                    <option>25</option>
+                                    <option>26</option>
+                                    <option>27</option>
+                                    <option>28</option>
+                                    <option>29</option>
+                                    <option>30</option>
+                                    <option>31</option>
+                                </select>
+                            </div>
+                            <div style="font-size: 38px;padding: 0 5px;">/</div>
+                            <div>
+                                <select class="form-control" id="ddlMonth">
+                                    <option>MM</option>
+                                    <option>01</option>
+                                    <option>02</option>
+                                    <option>03</option>
+                                    <option>04</option>
+                                    <option>05</option>
+                                    <option>06</option>
+                                    <option>07</option>
+                                    <option>08</option>
+                                    <option>09</option>
+                                    <option>10</option>
+                                    <option>11</option>
+                                    <option>12</option>
+                                </select>
+                            </div>
+                            <div style="font-size: 38px;padding: 0 5px;">/</div>
+                            <div>
+                                <select class="form-control" id="ddlYear">
+                                    <option>YYYY</option>
+                                    <option>1960</option>
+                                    <option>1961</option>
+                                    <option>1962</option>
+                                    <option>1963</option>
+                                    <option>1964</option>
+                                    <option>1965</option>
+                                    <option>1966</option>
+                                    <option>1967</option>
+                                    <option>1968</option>
+                                    <option>1969</option>
+                                    <option>1970</option>
+                                    <option>1971</option>
+                                    <option>1972</option>
+                                    <option>1973</option>
+                                    <option>1974</option>
+                                    <option>1975</option>
+                                    <option>1976</option>
+                                    <option>1977</option>
+                                    <option>1978</option>
+                                    <option>1979</option>
+                                    <option>1980</option>
+                                    <option>1981</option>
+                                    <option>1982</option>
+                                    <option>1983</option>
+                                    <option>1984</option>
+                                    <option>1985</option>
+                                    <option>1985</option>
+                                    <option>1986</option>
+                                    <option>1987</option>
+                                    <option>1988</option>
+                                    <option>1989</option>
+                                    <option>1990</option>
+                                    <option>1991</option>
+                                    <option>1992</option>
+                                    <option>1993</option>
+                                    <option>1994</option>
+                                    <option>1995</option>
+                                    <option>1996</option>
+                                    <option>1997</option>
+                                    <option>1998</option>
+                                    <option>1999</option>
+                                    <option>2000</option>
+                                    <option>2001</option>
+                                    <option>2002</option>
+                                    <option>2003</option>
+                                    <option>2004</option>
+                                    <option>2005</option>
+                                    <option>2006</option>
+                                    <option>2007</option>
+                                    <option>2008</option>
+                                    <option>2009</option>
+                                    <option>2010</option>
+                                    <option>2011</option>
+                                    <option>2012</option>
+                                    <option>2013</option>
+                                    <option>2014</option>
+                                    <option>2015</option>
+                                    <option>2016</option>
+                                    <option>2016</option>
+                                    <option>2017</option>
+                                    <option>2018</option>
+                                    <option>2019</option>
+                                    <option>2020</option>
+                                    <option>2021</option>
+                                    <option>2022</option>
+                                    <option>2023</option>
+                                </select>
+                            </div>
+                        </div>
+                        <div class="invalid-feedback">Example invalid select feedback</div>
+                    </div>
+                    <div class="col-md-2 mb-2">
+                        <label>Age</label>
+                        <input type="number" class="form-control" id="txtTotalAge" readonly="">
+                    </div>
+                    <div class="col-md-4 mt-2"></div>
+                    <div class="col-12">
+                        <button class="btn btn-primary" type="button" id="btnAddFamilyMember"> <i class="fa-solid fa-plus"></i> &nbsp;Add</button>
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+<style>
+    tr:nth-child(even) {
+        background: white !important;
+    }
+
+    .modal .modal-dialog {
+        margin-top: 25px !important;
+    }
+</style>
+
+<script src="~/customjs/employee/Family.js" asp-append-version="true"></script>
+
+
+<script>
+    // Get references to the select element and the hidden field
+    const select = document.getElementById("ddlEmployeerelation");
+    const hiddenField = document.getElementById("hiddenField");
+
+    // Add an event listener to the select element
+    select.addEventListener("change", function () {
+        var text = select.options[select.selectedIndex].innerHTML
+        if (text === "Father" || text === "Mother") {
+            hiddenField.style.display = "block";
+        } else {
+            hiddenField.style.display = "none";
+        }
+    });
+</script>

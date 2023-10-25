@@ -1,0 +1,238 @@
+﻿<link href="~/css/custom/dfccil1011_02.css" rel="stylesheet" asp-append-version="true" />
+<form action="" method="" />
+<div class="col-lg-12 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Claims Review List</h4>
+            <div class="table-responsive">
+                <table class="table table_mobile">
+                    <thead>
+                        <tr>
+                            <th>Sr No</th>
+                            <th>Employee Name</th>
+                            <th>Patient Name</th>
+                            <th>Relation</th>
+                            <th>Requested Date</th>
+                            <th>View</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>1</td>
+                            <td>Jacob</td>
+                            <td>John</td>
+                            <td>Father</td>
+                            <td>12 May 2017</td>
+                            <td><button type="button" onclick="review_click('emp_id','Jacob','John','Father')" class="btn btn-success-details">View Details</button></td>
+                        </tr>
+                        <tr>
+                            <td>2</td>
+                            <td>Hill</td>
+                            <td>Kililton</td>
+                            <td>Mother</td>
+                            <td>12 May 2016</td>
+                            <td><button type="button" onclick="review_click('emp_id','Hill','Kilinton','Mother')" class="btn btn-success-details">View Details</button></td>
+                        </tr>
+                        <tr>
+                            <td>3</td>
+                            <td>Eion</td>
+                            <td>Wood</td>
+                            <td>Brother</td>
+                            <td>12 May 2019</td>
+                            <td><button type="button" onclick="review_click('emp_id','Eion','Wood','Brother')" class="btn btn-success-details">View Details</button></td>
+                        </tr>
+                        <tr>
+                            <td>4</td>
+                            <td>Moin</td>
+                            <td>Decock</td>
+                            <td>Sister</td>
+                            <td>12 May 2013</td>
+                            <td><button type="button" onclick="review_click('emp_id','Moin','Decock','Sister')" class="btn btn-success-details">View Details</button></td>
+                        </tr>
+                        <tr>
+                            <td>5</td>
+                            <td>Hajel</td>
+                            <td>Kat</td>
+                            <td>Sister</td>
+                            <td>12 May 2021</td>
+                            <td><button type="button" onclick="review_click('emp_id','Hajel','Kat','Sister')" class="btn btn-success-details">View Details</button></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+<div id="review_details" style="display:none;">
+    <div class="col-lg-12 grid-margin stretch-card">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title">Patient Details</h4>
+                <div class="table-responsive">
+                    <table class="table table-striped">
+                        <thead>
+                            <tr>
+                                <th>
+                                    Employee Name
+                                </th>
+                                <th>
+                                    Patient Name
+                                </th>
+                                <th>
+                                    Date of Birth
+                                </th>
+                                <th>
+                                    Gender
+                                </th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td id="tdDoctorReviewListEmpName">
+                                    Sweta Singh
+                                </td>
+                                <td "id=" tdDoctorReviewListPatientName">
+                                    Anil Singh
+                                </td>
+                                <td id="tdDoctorReviewListDob">
+                                    Jan 01, 1980
+                                </td>
+                                <td id="tdDoctorReviewListEmpGender">
+                                    Male
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-12 grid-margin stretch-card">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title">Docter Verification Form</h4>
+                <div class="table-responsive">
+                    <table class="table table_mobile">
+                        <thead>
+                            <tr>
+                                <th>Sr No</th>
+                                <th>Type</th>
+                                <th>View</th>
+                                <th>Comment</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>1</td>
+                                <td>Administrative Advice</td>
+                                <td><a href="javascript:void(0)"><i class="fa fa-file-pdf-o pdf_docter_review" aria-hidden="true"></i></a></td>
+                                <td><textarea class="form-control doctor-verificatio-textarea" rows="1" cols="10" readonly></textarea></td>
+                            </tr>
+                            <tr>
+                                <td>2</td>
+                                <td>Dishcharge Summary</td>
+                                <td><a href="javascript:void(0)"><i class="fa fa-file-pdf-o pdf_docter_review" aria-hidden="true"></i></a></td>
+                                <td><textarea class="form-control doctor-verificatio-textarea" rows="1" cols="10" readonly></textarea></td>
+                            </tr>
+                            <tr>
+                                <td>3</td>
+                                <td>Investigation Report</td>
+                                <td><a href="javascript:void(0)"><i class="fa fa-file-pdf-o pdf_docter_review" aria-hidden="true"></i></a></td>
+                                <td><textarea class="form-control doctor-verificatio-textarea" rows="1" cols="10" readonly></textarea></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+    @*   additional comment *@
+    <div class="col-lg-7 grid-margin stretch-card">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title">Additional Comments / Recommendation </h4>
+                <div class="table-responsive">
+                    <table class="table table_mobile">
+                        <tbody>
+                            <tr>
+                                <td>1</td>
+                                <td><textarea class="form-control" rows="1" cols="10" readonly></textarea></td>
+                            </tr>
+                            <tr>
+                                <td>2</td>
+                                <td><textarea class="form-control" rows="1" cols="10" readonly></textarea></td>
+                            </tr>
+                            <tr>
+                                <td>3</td>
+                                <td><textarea class="form-control" rows="1" cols="10" readonly></textarea></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+                <hr />
+                <div class="spacial-desiese">
+                    <div class="">
+                        <label class="form-check-label">
+                            Is This Special Disease
+                        </label>
+                    </div>
+                    <div class="spacial-desiese-inner">
+                        <div class="">
+                            <label class="form-check-label">
+                                <input type="radio" onchange="rbt_chnage(this)" class="form-check-input" checked name="optionsRadios" id="optionsRadios2" value="self">
+                                Yes
+                            </label>
+                        </div>
+                        <div class="">
+                            <label class="form-check-label">
+                                <input type="radio" onchange="rbt_chnage(this)" class="form-check-input" submit="SelectHospitalFile('Advance Required')" name="optionsRadios" id="optionsRadios2" value="hospital">
+                                No
+                            </label>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-12 grid-margin stretch-card">
+        <div class="card">
+            <div class="card-body">
+                <div class="d-flex justify-content-between align-center">
+                    <div class="form-check form-check-flat form-check-primary">
+                        <label class="form-check-label checkbox_btn">
+                            <input onclick="verified_click(this)" type="checkbox" class="form-check-input">
+                            Verified
+                            <i class="input-helper"></i>
+                        </label>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</form>
+<script src="~/customjs/admin/docterreviewlist.js" asp-append-version="true"></script>
+<script>
+    function verified_click(e) {
+        if (e.checked) {
+            document.getElementById('sendtohr').disabled = false;
+        }
+        else {
+            document.getElementById('sendtohr').disabled = true;
+        }
+    }
+
+    function review_click(emp_id, emp_name, patient_name, relation) {
+
+        var review_click = document.getElementById('review_details');
+        review_click.style.display = "block";
+
+        var patientname = document.getElementById('doc_name');
+        patientname.innerText = patient_name;
+        var empname = document.getElementById('emp_name');
+        empname.innerText = emp_name;
+
+
+        return false;
+    }
+</script>

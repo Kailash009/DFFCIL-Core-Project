@@ -1,0 +1,414 @@
+E:\OfficeWork\CETPAWork\dfccil.com\DFCCIL_HealthClaim\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\appsettings.Development.json
+E:\OfficeWork\CETPAWork\dfccil.com\DFCCIL_HealthClaim\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\appsettings.json
+E:\OfficeWork\CETPAWork\dfccil.com\DFCCIL_HealthClaim\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\HealthClaim.Web.staticwebassets.runtime.json
+E:\OfficeWork\CETPAWork\dfccil.com\DFCCIL_HealthClaim\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\HealthClaim.Web.exe
+E:\OfficeWork\CETPAWork\dfccil.com\DFCCIL_HealthClaim\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\HealthClaim.Web.deps.json
+E:\OfficeWork\CETPAWork\dfccil.com\DFCCIL_HealthClaim\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\HealthClaim.Web.runtimeconfig.json
+E:\OfficeWork\CETPAWork\dfccil.com\DFCCIL_HealthClaim\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\HealthClaim.Web.dll
+E:\OfficeWork\CETPAWork\dfccil.com\DFCCIL_HealthClaim\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\HealthClaim.Web.pdb
+E:\OfficeWork\CETPAWork\dfccil.com\DFCCIL_HealthClaim\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.csproj.AssemblyReference.cache
+E:\OfficeWork\CETPAWork\dfccil.com\DFCCIL_HealthClaim\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.GeneratedMSBuildEditorConfig.editorconfig
+E:\OfficeWork\CETPAWork\dfccil.com\DFCCIL_HealthClaim\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.AssemblyInfoInputs.cache
+E:\OfficeWork\CETPAWork\dfccil.com\DFCCIL_HealthClaim\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.AssemblyInfo.cs
+E:\OfficeWork\CETPAWork\dfccil.com\DFCCIL_HealthClaim\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.csproj.CoreCompileInputs.cache
+E:\OfficeWork\CETPAWork\dfccil.com\DFCCIL_HealthClaim\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.MvcApplicationPartsAssemblyInfo.cache
+E:\OfficeWork\CETPAWork\dfccil.com\DFCCIL_HealthClaim\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.RazorAssemblyInfo.cache
+E:\OfficeWork\CETPAWork\dfccil.com\DFCCIL_HealthClaim\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.RazorAssemblyInfo.cs
+E:\OfficeWork\CETPAWork\dfccil.com\DFCCIL_HealthClaim\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\staticwebassets\msbuild.HealthClaim.Web.Microsoft.AspNetCore.StaticWebAssets.props
+E:\OfficeWork\CETPAWork\dfccil.com\DFCCIL_HealthClaim\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\staticwebassets\msbuild.build.HealthClaim.Web.props
+E:\OfficeWork\CETPAWork\dfccil.com\DFCCIL_HealthClaim\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.HealthClaim.Web.props
+E:\OfficeWork\CETPAWork\dfccil.com\DFCCIL_HealthClaim\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.HealthClaim.Web.props
+E:\OfficeWork\CETPAWork\dfccil.com\DFCCIL_HealthClaim\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\staticwebassets.pack.json
+E:\OfficeWork\CETPAWork\dfccil.com\DFCCIL_HealthClaim\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\staticwebassets.build.json
+E:\OfficeWork\CETPAWork\dfccil.com\DFCCIL_HealthClaim\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\staticwebassets.development.json
+E:\OfficeWork\CETPAWork\dfccil.com\DFCCIL_HealthClaim\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\OfficeWork\CETPAWork\dfccil.com\DFCCIL_HealthClaim\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\scopedcss\bundle\HealthClaim.Web.styles.css
+E:\OfficeWork\CETPAWork\dfccil.com\DFCCIL_HealthClaim\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\scopedcss\projectbundle\HealthClaim.Web.bundle.scp.css
+E:\OfficeWork\CETPAWork\dfccil.com\DFCCIL_HealthClaim\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.dll
+E:\OfficeWork\CETPAWork\dfccil.com\DFCCIL_HealthClaim\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\refint\HealthClaim.Web.dll
+E:\OfficeWork\CETPAWork\dfccil.com\DFCCIL_HealthClaim\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.pdb
+E:\OfficeWork\CETPAWork\dfccil.com\DFCCIL_HealthClaim\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.genruntimeconfig.cache
+E:\OfficeWork\CETPAWork\dfccil.com\DFCCIL_HealthClaim\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\ref\HealthClaim.Web.dll
+E:\OfficeWork\CETPAWork\dfccil.com\DFCCIL_HealthClaim\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\HealthClaim.WebServices.dll
+E:\OfficeWork\CETPAWork\dfccil.com\DFCCIL_HealthClaim\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\HealthClaim.WebServices.pdb
+E:\OfficeWork\CETPAWork\dfccil.com\DFCCIL_HealthClaim\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.csproj.CopyComplete
+D:\DFCCIL\HealthClaim.WebSolution\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\appsettings.Development.json
+D:\DFCCIL\HealthClaim.WebSolution\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\appsettings.json
+D:\DFCCIL\HealthClaim.WebSolution\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\HealthClaim.Web.staticwebassets.runtime.json
+D:\DFCCIL\HealthClaim.WebSolution\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\HealthClaim.Web.exe
+D:\DFCCIL\HealthClaim.WebSolution\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\HealthClaim.Web.deps.json
+D:\DFCCIL\HealthClaim.WebSolution\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\HealthClaim.Web.runtimeconfig.json
+D:\DFCCIL\HealthClaim.WebSolution\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\HealthClaim.Web.dll
+D:\DFCCIL\HealthClaim.WebSolution\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\HealthClaim.Web.pdb
+D:\DFCCIL\HealthClaim.WebSolution\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\HealthClaim.WebServices.dll
+D:\DFCCIL\HealthClaim.WebSolution\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\HealthClaim.WebServices.pdb
+D:\DFCCIL\HealthClaim.WebSolution\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.csproj.AssemblyReference.cache
+D:\DFCCIL\HealthClaim.WebSolution\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\DFCCIL\HealthClaim.WebSolution\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.AssemblyInfoInputs.cache
+D:\DFCCIL\HealthClaim.WebSolution\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.AssemblyInfo.cs
+D:\DFCCIL\HealthClaim.WebSolution\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.csproj.CoreCompileInputs.cache
+D:\DFCCIL\HealthClaim.WebSolution\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\DFCCIL\HealthClaim.WebSolution\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.RazorAssemblyInfo.cache
+D:\DFCCIL\HealthClaim.WebSolution\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.RazorAssemblyInfo.cs
+D:\DFCCIL\HealthClaim.WebSolution\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\staticwebassets\msbuild.HealthClaim.Web.Microsoft.AspNetCore.StaticWebAssets.props
+D:\DFCCIL\HealthClaim.WebSolution\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\staticwebassets\msbuild.build.HealthClaim.Web.props
+D:\DFCCIL\HealthClaim.WebSolution\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.HealthClaim.Web.props
+D:\DFCCIL\HealthClaim.WebSolution\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.HealthClaim.Web.props
+D:\DFCCIL\HealthClaim.WebSolution\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\staticwebassets.pack.json
+D:\DFCCIL\HealthClaim.WebSolution\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\staticwebassets.build.json
+D:\DFCCIL\HealthClaim.WebSolution\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\staticwebassets.development.json
+D:\DFCCIL\HealthClaim.WebSolution\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\DFCCIL\HealthClaim.WebSolution\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\scopedcss\bundle\HealthClaim.Web.styles.css
+D:\DFCCIL\HealthClaim.WebSolution\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\scopedcss\projectbundle\HealthClaim.Web.bundle.scp.css
+D:\DFCCIL\HealthClaim.WebSolution\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.csproj.CopyComplete
+D:\DFCCIL\HealthClaim.WebSolution\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.dll
+D:\DFCCIL\HealthClaim.WebSolution\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\refint\HealthClaim.Web.dll
+D:\DFCCIL\HealthClaim.WebSolution\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.pdb
+D:\DFCCIL\HealthClaim.WebSolution\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.genruntimeconfig.cache
+D:\DFCCIL\HealthClaim.WebSolution\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\ref\HealthClaim.Web.dll
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\Software\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\Software\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\appsettings.json
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\Software\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\HealthClaim.Web.staticwebassets.runtime.json
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\Software\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\HealthClaim.Web.exe
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\Software\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\HealthClaim.Web.deps.json
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\Software\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\HealthClaim.Web.runtimeconfig.json
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\Software\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\HealthClaim.Web.dll
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\Software\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\HealthClaim.Web.pdb
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\Software\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\HealthClaim.WebServices.dll
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\Software\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\HealthClaim.WebServices.pdb
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\Software\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.csproj.AssemblyReference.cache
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\Software\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\Software\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.AssemblyInfoInputs.cache
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\Software\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.AssemblyInfo.cs
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\Software\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.csproj.CoreCompileInputs.cache
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\Software\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\Software\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.RazorAssemblyInfo.cache
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\Software\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.RazorAssemblyInfo.cs
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\Software\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\staticwebassets\msbuild.HealthClaim.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\Software\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\staticwebassets\msbuild.build.HealthClaim.Web.props
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\Software\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.HealthClaim.Web.props
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\Software\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.HealthClaim.Web.props
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\Software\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\Software\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\Software\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\Software\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\Software\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\scopedcss\bundle\HealthClaim.Web.styles.css
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\Software\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\scopedcss\projectbundle\HealthClaim.Web.bundle.scp.css
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\Software\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.csproj.CopyComplete
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\Software\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.dll
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\Software\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\refint\HealthClaim.Web.dll
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\Software\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.pdb
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\Software\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.genruntimeconfig.cache
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\Software\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\ref\HealthClaim.Web.dll
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\12Oct2023\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\12Oct2023\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\appsettings.json
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\12Oct2023\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\HealthClaim.Web.staticwebassets.runtime.json
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\12Oct2023\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\HealthClaim.Web.exe
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\12Oct2023\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\HealthClaim.Web.deps.json
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\12Oct2023\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\HealthClaim.Web.runtimeconfig.json
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\12Oct2023\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\HealthClaim.Web.dll
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\12Oct2023\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\HealthClaim.Web.pdb
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\12Oct2023\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\HealthClaim.WebServices.dll
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\12Oct2023\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\HealthClaim.WebServices.pdb
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\12Oct2023\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.csproj.AssemblyReference.cache
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\12Oct2023\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\12Oct2023\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.AssemblyInfoInputs.cache
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\12Oct2023\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.AssemblyInfo.cs
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\12Oct2023\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.csproj.CoreCompileInputs.cache
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\12Oct2023\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\12Oct2023\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.RazorAssemblyInfo.cache
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\12Oct2023\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.RazorAssemblyInfo.cs
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\12Oct2023\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\staticwebassets\msbuild.HealthClaim.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\12Oct2023\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\staticwebassets\msbuild.build.HealthClaim.Web.props
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\12Oct2023\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.HealthClaim.Web.props
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\12Oct2023\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.HealthClaim.Web.props
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\12Oct2023\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\12Oct2023\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\12Oct2023\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\12Oct2023\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\12Oct2023\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\scopedcss\bundle\HealthClaim.Web.styles.css
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\12Oct2023\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\scopedcss\projectbundle\HealthClaim.Web.bundle.scp.css
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\12Oct2023\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.csproj.CopyComplete
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\12Oct2023\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.dll
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\12Oct2023\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\refint\HealthClaim.Web.dll
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\12Oct2023\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.pdb
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\12Oct2023\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.genruntimeconfig.cache
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\12Oct2023\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\ref\HealthClaim.Web.dll
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\13Oct2023\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\13Oct2023\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\appsettings.json
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\13Oct2023\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\HealthClaim.Web.staticwebassets.runtime.json
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\13Oct2023\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\HealthClaim.Web.exe
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\13Oct2023\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\HealthClaim.Web.deps.json
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\13Oct2023\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\HealthClaim.Web.runtimeconfig.json
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\13Oct2023\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\HealthClaim.Web.dll
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\13Oct2023\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\HealthClaim.Web.pdb
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\13Oct2023\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\HealthClaim.WebServices.dll
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\13Oct2023\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\HealthClaim.WebServices.pdb
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\13Oct2023\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.csproj.AssemblyReference.cache
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\13Oct2023\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\13Oct2023\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.AssemblyInfoInputs.cache
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\13Oct2023\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.AssemblyInfo.cs
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\13Oct2023\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.csproj.CoreCompileInputs.cache
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\13Oct2023\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\13Oct2023\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.RazorAssemblyInfo.cache
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\13Oct2023\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.RazorAssemblyInfo.cs
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\13Oct2023\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\staticwebassets\msbuild.HealthClaim.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\13Oct2023\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\staticwebassets\msbuild.build.HealthClaim.Web.props
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\13Oct2023\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.HealthClaim.Web.props
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\13Oct2023\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.HealthClaim.Web.props
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\13Oct2023\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\13Oct2023\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\13Oct2023\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\13Oct2023\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\13Oct2023\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\scopedcss\bundle\HealthClaim.Web.styles.css
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\13Oct2023\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\scopedcss\projectbundle\HealthClaim.Web.bundle.scp.css
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\13Oct2023\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.csproj.CopyComplete
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\13Oct2023\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.dll
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\13Oct2023\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\refint\HealthClaim.Web.dll
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\13Oct2023\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.pdb
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\13Oct2023\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.genruntimeconfig.cache
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\13Oct2023\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\ref\HealthClaim.Web.dll
+C:\Users\Admin\Desktop\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.dll
+C:\Users\Admin\Desktop\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\refint\HealthClaim.Web.dll
+C:\Users\Admin\Desktop\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.pdb
+D:\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.AssemblyInfoInputs.cache
+D:\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.AssemblyInfo.cs
+D:\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.csproj.CoreCompileInputs.cache
+D:\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.RazorAssemblyInfo.cache
+D:\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.RazorAssemblyInfo.cs
+D:\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\appsettings.Development.json
+D:\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\appsettings.json
+D:\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\HealthClaim.Web.staticwebassets.runtime.json
+D:\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\HealthClaim.Web.exe
+D:\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\HealthClaim.Web.deps.json
+D:\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\HealthClaim.Web.runtimeconfig.json
+D:\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\HealthClaim.Web.dll
+D:\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\HealthClaim.Web.pdb
+D:\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\staticwebassets\msbuild.HealthClaim.Web.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\staticwebassets\msbuild.build.HealthClaim.Web.props
+D:\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.HealthClaim.Web.props
+D:\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.HealthClaim.Web.props
+D:\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\staticwebassets.build.json
+D:\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\staticwebassets.development.json
+D:\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\scopedcss\bundle\HealthClaim.Web.styles.css
+D:\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\scopedcss\projectbundle\HealthClaim.Web.bundle.scp.css
+D:\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.dll
+D:\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\refint\HealthClaim.Web.dll
+D:\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.pdb
+D:\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.genruntimeconfig.cache
+D:\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\ref\HealthClaim.Web.dll
+C:\Users\Admin\Desktop\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Admin\Desktop\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\appsettings.json
+C:\Users\Admin\Desktop\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\HealthClaim.Web.staticwebassets.runtime.json
+C:\Users\Admin\Desktop\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\HealthClaim.Web.exe
+C:\Users\Admin\Desktop\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\HealthClaim.Web.deps.json
+C:\Users\Admin\Desktop\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\HealthClaim.Web.runtimeconfig.json
+C:\Users\Admin\Desktop\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\HealthClaim.Web.dll
+C:\Users\Admin\Desktop\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\HealthClaim.Web.pdb
+C:\Users\Admin\Desktop\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.RazorAssemblyInfo.cache
+C:\Users\Admin\Desktop\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.RazorAssemblyInfo.cs
+C:\Users\Admin\Desktop\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\staticwebassets\msbuild.HealthClaim.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\Desktop\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\staticwebassets\msbuild.build.HealthClaim.Web.props
+C:\Users\Admin\Desktop\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.HealthClaim.Web.props
+C:\Users\Admin\Desktop\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.HealthClaim.Web.props
+C:\Users\Admin\Desktop\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Admin\Desktop\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Admin\Desktop\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Admin\Desktop\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Admin\Desktop\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\scopedcss\bundle\HealthClaim.Web.styles.css
+C:\Users\Admin\Desktop\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\scopedcss\projectbundle\HealthClaim.Web.bundle.scp.css
+C:\Users\Admin\Desktop\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\ref\HealthClaim.Web.dll
+C:\Users\Admin\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Admin\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\appsettings.json
+C:\Users\Admin\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\HealthClaim.Web.staticwebassets.runtime.json
+C:\Users\Admin\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\HealthClaim.Web.exe
+C:\Users\Admin\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\HealthClaim.Web.deps.json
+C:\Users\Admin\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\HealthClaim.Web.runtimeconfig.json
+C:\Users\Admin\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\HealthClaim.Web.dll
+C:\Users\Admin\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\HealthClaim.Web.pdb
+C:\Users\Admin\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.AssemblyInfoInputs.cache
+C:\Users\Admin\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.AssemblyInfo.cs
+C:\Users\Admin\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.RazorAssemblyInfo.cache
+C:\Users\Admin\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.RazorAssemblyInfo.cs
+C:\Users\Admin\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\staticwebassets\msbuild.HealthClaim.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\staticwebassets\msbuild.build.HealthClaim.Web.props
+C:\Users\Admin\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.HealthClaim.Web.props
+C:\Users\Admin\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.HealthClaim.Web.props
+C:\Users\Admin\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Admin\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Admin\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Admin\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Admin\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\scopedcss\bundle\HealthClaim.Web.styles.css
+C:\Users\Admin\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\scopedcss\projectbundle\HealthClaim.Web.bundle.scp.css
+C:\Users\Admin\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.dll
+C:\Users\Admin\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\refint\HealthClaim.Web.dll
+C:\Users\Admin\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.pdb
+C:\Users\Admin\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.genruntimeconfig.cache
+C:\Users\Admin\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\ref\HealthClaim.Web.dll
+C:\Users\VINAY IT\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\VINAY IT\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\appsettings.json
+C:\Users\VINAY IT\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\HealthClaim.Web.staticwebassets.runtime.json
+C:\Users\VINAY IT\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\HealthClaim.Web.exe
+C:\Users\VINAY IT\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\HealthClaim.Web.deps.json
+C:\Users\VINAY IT\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\HealthClaim.Web.runtimeconfig.json
+C:\Users\VINAY IT\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\HealthClaim.Web.dll
+C:\Users\VINAY IT\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\HealthClaim.Web.pdb
+C:\Users\VINAY IT\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VINAY IT\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.AssemblyInfoInputs.cache
+C:\Users\VINAY IT\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.AssemblyInfo.cs
+C:\Users\VINAY IT\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.csproj.CoreCompileInputs.cache
+C:\Users\VINAY IT\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\VINAY IT\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.RazorAssemblyInfo.cache
+C:\Users\VINAY IT\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.RazorAssemblyInfo.cs
+C:\Users\VINAY IT\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\staticwebassets\msbuild.HealthClaim.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\VINAY IT\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\staticwebassets\msbuild.build.HealthClaim.Web.props
+C:\Users\VINAY IT\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.HealthClaim.Web.props
+C:\Users\VINAY IT\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.HealthClaim.Web.props
+C:\Users\VINAY IT\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\VINAY IT\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\VINAY IT\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\VINAY IT\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\VINAY IT\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\scopedcss\bundle\HealthClaim.Web.styles.css
+C:\Users\VINAY IT\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\scopedcss\projectbundle\HealthClaim.Web.bundle.scp.css
+C:\Users\VINAY IT\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.dll
+C:\Users\VINAY IT\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\refint\HealthClaim.Web.dll
+C:\Users\VINAY IT\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.pdb
+C:\Users\VINAY IT\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.genruntimeconfig.cache
+C:\Users\VINAY IT\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\ref\HealthClaim.Web.dll
+C:\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\appsettings.Development.json
+C:\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\appsettings.json
+C:\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\HealthClaim.Web.staticwebassets.runtime.json
+C:\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\HealthClaim.Web.exe
+C:\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\HealthClaim.Web.deps.json
+C:\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\HealthClaim.Web.runtimeconfig.json
+C:\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\HealthClaim.Web.dll
+C:\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\HealthClaim.Web.pdb
+C:\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.csproj.AssemblyReference.cache
+C:\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.AssemblyInfoInputs.cache
+C:\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.AssemblyInfo.cs
+C:\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.csproj.CoreCompileInputs.cache
+C:\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.RazorAssemblyInfo.cache
+C:\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.RazorAssemblyInfo.cs
+C:\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\staticwebassets\msbuild.HealthClaim.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\staticwebassets\msbuild.build.HealthClaim.Web.props
+C:\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.HealthClaim.Web.props
+C:\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.HealthClaim.Web.props
+C:\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\staticwebassets.build.json
+C:\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\scopedcss\bundle\HealthClaim.Web.styles.css
+C:\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\scopedcss\projectbundle\HealthClaim.Web.bundle.scp.css
+C:\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.dll
+C:\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\refint\HealthClaim.Web.dll
+C:\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.pdb
+C:\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.genruntimeconfig.cache
+C:\Dropbox\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\ref\HealthClaim.Web.dll
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\14Oct2023\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\14Oct2023\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\appsettings.json
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\14Oct2023\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\HealthClaim.Web.staticwebassets.runtime.json
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\14Oct2023\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\HealthClaim.Web.exe
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\14Oct2023\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\HealthClaim.Web.deps.json
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\14Oct2023\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\HealthClaim.Web.runtimeconfig.json
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\14Oct2023\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\HealthClaim.Web.dll
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\14Oct2023\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\HealthClaim.Web.pdb
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\14Oct2023\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.csproj.AssemblyReference.cache
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\14Oct2023\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\14Oct2023\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.AssemblyInfoInputs.cache
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\14Oct2023\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.AssemblyInfo.cs
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\14Oct2023\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.csproj.CoreCompileInputs.cache
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\14Oct2023\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\14Oct2023\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.RazorAssemblyInfo.cache
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\14Oct2023\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.RazorAssemblyInfo.cs
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\14Oct2023\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\staticwebassets\msbuild.HealthClaim.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\14Oct2023\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\staticwebassets\msbuild.build.HealthClaim.Web.props
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\14Oct2023\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.HealthClaim.Web.props
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\14Oct2023\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.HealthClaim.Web.props
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\14Oct2023\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\14Oct2023\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\14Oct2023\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\14Oct2023\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\14Oct2023\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\scopedcss\bundle\HealthClaim.Web.styles.css
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\14Oct2023\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\scopedcss\projectbundle\HealthClaim.Web.bundle.scp.css
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\14Oct2023\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.dll
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\14Oct2023\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\refint\HealthClaim.Web.dll
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\14Oct2023\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.pdb
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\14Oct2023\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.genruntimeconfig.cache
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\14Oct2023\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\ref\HealthClaim.Web.dll
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\15Oct2023\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\15Oct2023\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\appsettings.json
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\15Oct2023\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\HealthClaim.Web.staticwebassets.runtime.json
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\15Oct2023\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\HealthClaim.Web.exe
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\15Oct2023\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\HealthClaim.Web.deps.json
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\15Oct2023\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\HealthClaim.Web.runtimeconfig.json
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\15Oct2023\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\HealthClaim.Web.dll
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\15Oct2023\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\HealthClaim.Web.pdb
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\15Oct2023\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.csproj.AssemblyReference.cache
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\15Oct2023\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\15Oct2023\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.AssemblyInfoInputs.cache
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\15Oct2023\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.AssemblyInfo.cs
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\15Oct2023\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.csproj.CoreCompileInputs.cache
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\15Oct2023\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\15Oct2023\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.RazorAssemblyInfo.cache
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\15Oct2023\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.RazorAssemblyInfo.cs
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\15Oct2023\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\staticwebassets\msbuild.HealthClaim.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\15Oct2023\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\staticwebassets\msbuild.build.HealthClaim.Web.props
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\15Oct2023\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.HealthClaim.Web.props
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\15Oct2023\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.HealthClaim.Web.props
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\15Oct2023\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\15Oct2023\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\15Oct2023\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\15Oct2023\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\15Oct2023\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\scopedcss\bundle\HealthClaim.Web.styles.css
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\15Oct2023\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\scopedcss\projectbundle\HealthClaim.Web.bundle.scp.css
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\15Oct2023\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.dll
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\15Oct2023\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\refint\HealthClaim.Web.dll
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\15Oct2023\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.pdb
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\15Oct2023\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.genruntimeconfig.cache
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\15Oct2023\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\ref\HealthClaim.Web.dll
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\17Oct2023\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\17Oct2023\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\appsettings.json
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\17Oct2023\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\HealthClaim.Web.staticwebassets.runtime.json
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\17Oct2023\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\HealthClaim.Web.exe
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\17Oct2023\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\HealthClaim.Web.deps.json
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\17Oct2023\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\HealthClaim.Web.runtimeconfig.json
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\17Oct2023\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\HealthClaim.Web.dll
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\17Oct2023\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\bin\Debug\net6.0\HealthClaim.Web.pdb
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\17Oct2023\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.csproj.AssemblyReference.cache
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\17Oct2023\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\17Oct2023\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.AssemblyInfoInputs.cache
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\17Oct2023\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.AssemblyInfo.cs
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\17Oct2023\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.csproj.CoreCompileInputs.cache
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\17Oct2023\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\17Oct2023\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.RazorAssemblyInfo.cache
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\17Oct2023\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.RazorAssemblyInfo.cs
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\17Oct2023\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\staticwebassets\msbuild.HealthClaim.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\17Oct2023\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\staticwebassets\msbuild.build.HealthClaim.Web.props
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\17Oct2023\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.HealthClaim.Web.props
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\17Oct2023\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.HealthClaim.Web.props
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\17Oct2023\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\17Oct2023\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\17Oct2023\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\17Oct2023\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\17Oct2023\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\scopedcss\bundle\HealthClaim.Web.styles.css
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\17Oct2023\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\scopedcss\projectbundle\HealthClaim.Web.bundle.scp.css
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\17Oct2023\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.dll
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\17Oct2023\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\refint\HealthClaim.Web.dll
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\17Oct2023\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.pdb
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\17Oct2023\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\HealthClaim.Web.genruntimeconfig.cache
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\17Oct2023\DFCCIL\HealthClaim.WebSolution\HealthClaim.Web\obj\Debug\net6.0\ref\HealthClaim.Web.dll

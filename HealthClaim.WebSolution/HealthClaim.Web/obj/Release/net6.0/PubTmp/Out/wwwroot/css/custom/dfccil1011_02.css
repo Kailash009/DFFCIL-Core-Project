@@ -1,0 +1,342 @@
+﻿.card-icon-strech {
+    display: flex;
+    align-items: center;
+    column-gap: 10px;
+    justify-content: center;
+}
+
+.btn-upload {
+    border: 1px solid #CED4DA;
+    border-radius: unset;
+}
+
+label.col-sm-12.col-form-label.err {
+    font-size: 12px;
+    color: #8b8b8b;
+    margin-top: 0px;
+}
+
+.row.payto {
+    background: #fbfbfb;
+    padding: 14px;
+    border-radius: 4px;
+    box-shadow: 0px 6px 0px #efefef;
+    margin-top: -17px;
+}
+
+.Member-icon {
+    background: #4B49AC;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    color: #fff;
+    font-size: 20px;
+    border: 1px solid #4B49AC;
+    transition: all .6s ease-in-out;
+}
+
+    .Member-icon:hover {
+        background: transparent;
+        color: #4B49AC;
+        transform: rotate(360deg);
+    }
+
+.member-para {
+    font-size: 13px;
+    color: #000;
+    text-transform: capitalize;
+}
+
+.btn-view {
+    display: flex;
+    margin-left: auto !important;
+    /* margin-right: auto !important;*/
+}
+
+.member {
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.table tr:nth-child(even) {
+    background: #f5f7ff;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+.btn-success-details {
+    width: auto;
+    height: 40px;
+    border-radius: 4px;
+    background: #4B49AC;
+    color: #fff;
+    border: 1px solid #4B49AC;
+    transition: all .6s ease-in-out;
+}
+
+    .btn-success-details:hover {
+        background: transparent;
+        color: #4B49AC;
+    }
+
+.patient-haeding {
+    font-size: 15px;
+    font-weight: 600;
+    text-transform: capitalize;
+    text-align: center;
+}
+
+.patient-detais {
+    font-size: 0.875rem;
+    text-transform: capitalize;
+    text-align: center;
+    font-weight: 400;
+}
+
+.form-flex-view {
+    display: flex !important;
+    align-items: center;
+    column-gap: 60px;
+    flex-wrap: wrap;
+}
+
+.spacial-desiese {
+    display: flex;
+    column-gap: 100px;
+}
+
+.text-arae-width {
+    width: 250px !important;
+}
+
+.table_span {
+    font-weight: 400;
+    margin-left: 7px;
+}
+
+.pdf_docter_review {
+    font-size: 25px;
+    color: #f72015;
+}
+
+.spacial-desiese-inner {
+    display: flex;
+    width: 100px;
+    justify-content: space-between;
+}
+
+.addmission-flex {
+    display: flex;
+    column-gap: 120px;
+    margin-left: 5px;
+    align-items: center;
+}
+
+.addmission-flex1 {
+    display: flex;
+    column-gap: 80px;
+    margin-left: 5px;
+    align-items: center;
+}
+
+/*media query */
+
+@media(max-width:768px) {
+    .text_area.form-control {
+        width: 150px !important;
+    }
+
+    .spacial-desiese {
+        /*column-gap: 30px;*/
+        flex-wrap: wrap;
+        justify-content: center;
+        row-gap: 5px;
+        margin-bottom: 10px;
+    }
+
+    .form-group label {
+        line-height: 2 !important;
+        margin-bottom: 0 !important;
+        font-size: 13px;
+    }
+
+    .form-check-label {
+        font-size: 14px;
+    }
+
+    .table td {
+        font-size: 13px;
+    }
+
+    .btn {
+        font-size: 13px;
+    }
+
+    .card-icon-strech {
+        justify-content: start;
+    }
+
+    .patient-details {
+        display: flex;
+        align-items: center;
+        column-gap: 7px;
+        flex-wrap: wrap;
+    }
+
+    .patient-haeding::after {
+        content: ":";
+    }
+
+    .patient-haeding {
+        white-space: nowrap;
+        font-size: 13px;
+    }
+
+    .row {
+        padding: 0 0 !important;
+    }
+
+    .content-wrapper {
+        padding: 1.5rem 0.1rem;
+    }
+
+    .col-lg-6, .col-md-12, {
+        padding: 0 0 !important;
+    }
+
+    .col-sm-7 {
+        padding: 5px 5px !important;
+    }
+
+
+    .btn-success-details {
+        display: flex;
+        margin: 3px auto;
+        justify-content: center;
+        height: auto;
+        font-size: 13px;
+    }
+
+    .doctor-verificatio-textarea {
+        width: 150px !important;
+    }
+
+    .addmission-flex {
+        display: flex;
+        align-items: center;
+        column-gap: 30px;
+    }
+
+    .flex-gap {
+        column-gap: 6px;
+    }
+
+    .addmission-flex1 {
+        display: flex;
+        align-items: center;
+        column-gap: 10px;
+    }
+
+    .none-label {
+        display: none;
+    }
+
+    .advanced-approved {
+        padding: 0 0 !important;
+    }
+
+        .advanced-approved .card-body {
+            padding: 1.25rem .3rem !important;
+        }
+
+    .form-group {
+        margin-bottom: 0.4rem !important;
+    }
+
+    .send-to-btn {
+        margin-top: 2px !important;
+        margin-right: 4px;
+        margin-left: 4px;
+        display: flex;
+        margin: 2px auto;
+    }
+
+
+    .card .card-title {
+        font-size: 15px;
+        margin-bottom: 0.5rem;
+    }
+
+    .table_mobile td {
+        padding: .3rem 1.25rem !important;
+    }
+
+    .patient-detais {
+        margin-left: auto;
+        font-size: 13px;
+    }
+
+    .form-control-mobile {
+        width: 120px !important;
+        height: 40px;
+    }
+
+    .form-control {
+        height: 40px !important;
+    }
+
+    .Member-icon {
+        width: 50px;
+        height: 50px;
+        font-size: 16px;
+    }
+
+    ::placeholder {
+        font-size: 13px;
+    }
+
+    .form-control {
+        font-size: 13px;
+    }
+
+    .table_span {
+        font-size: 13px;
+    }
+
+    .table thead th {
+        font-size: 14px;
+    }
+
+    .btn-view {
+        margin-right: unset !important;
+    }
+
+    .checkdirect .form-check-input {
+        position: inherit !important;
+    }
+
+    label.form-check-label.Pay {
+        font-weight: 900;
+        font-size: 18px;
+        margin-top: 12px;
+    }
+
+    .col-md-4.self {
+        padding-left: 36px;
+        margin-top: 12px;
+    }
+
+    label.col-sm-12.col-form-label.err {
+        margin-top: 0;
+        font-size: 8px;
+    }
+}
+
+@media(max-width:320px) {
+    .btn-view {
+        margin-left: unset !important;
+    }
+}

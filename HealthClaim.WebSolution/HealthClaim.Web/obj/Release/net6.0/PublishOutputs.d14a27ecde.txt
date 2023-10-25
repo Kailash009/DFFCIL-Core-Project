@@ -1,0 +1,9 @@
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\12Oct2023\HealthClaim.WebSolution\HealthClaim.Web\obj\Release\net6.0\PubTmp\Out\HealthClaim.Web.exe
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\12Oct2023\HealthClaim.WebSolution\HealthClaim.Web\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\12Oct2023\HealthClaim.WebSolution\HealthClaim.Web\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\12Oct2023\HealthClaim.WebSolution\HealthClaim.Web\obj\Release\net6.0\PubTmp\Out\HealthClaim.Web.dll
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\12Oct2023\HealthClaim.WebSolution\HealthClaim.Web\obj\Release\net6.0\PubTmp\Out\HealthClaim.Web.deps.json
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\12Oct2023\HealthClaim.WebSolution\HealthClaim.Web\obj\Release\net6.0\PubTmp\Out\HealthClaim.Web.runtimeconfig.json
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\12Oct2023\HealthClaim.WebSolution\HealthClaim.Web\obj\Release\net6.0\PubTmp\Out\HealthClaim.Web.pdb
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\12Oct2023\HealthClaim.WebSolution\HealthClaim.Web\obj\Release\net6.0\PubTmp\Out\HealthClaim.WebServices.dll
+C:\Users\Anil Singh\OneDrive\Desktop\DFCCIL\12Oct2023\HealthClaim.WebSolution\HealthClaim.Web\obj\Release\net6.0\PubTmp\Out\HealthClaim.WebServices.pdb

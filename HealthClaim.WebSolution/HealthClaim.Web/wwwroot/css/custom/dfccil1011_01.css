@@ -1,0 +1,502 @@
+﻿.Member {
+    background: #4B49AC !important;
+    padding: 14px;
+    border-radius: 23px;
+    color: #fff;
+    box-shadow: #dee2e6 0px 7px 29px 0px;
+}
+
+h4.card-title.mb-4.members {
+    margin-bottom: 0px !important;
+}
+
+a.btn.btn-primary.Request {
+    float: right;
+}
+
+.row.totalad {
+    padding-top: 30px !important;
+}
+
+.form-group.rowsub {
+    float: right;
+}
+
+tr.bills {
+    border-top: 3px solid #ccc;
+}
+
+button.btn {
+    border: 1px solid #CED4DA;
+    font-weight: 400;
+    font-size: 0.875rem;
+    border-radius: 4px;
+    width: 100%;
+}
+
+a.btn.btn-primary.inpatient {
+     float:  right;
+}
+
+.inpatient {
+    float: right;
+    margin-top: 10px;
+}
+
+.col-md-12.inpatientbill {
+    padding-top: 18px;
+}
+
+button.btn.mobile {
+    padding: 6px !important;
+    height: 46px;
+}
+
+button.btn.mobiles {
+    padding: 6px !important;
+    height: 46px;
+    padding: 0px;
+}
+
+button.btn.Mobiles {
+    padding: 0px;
+    height: 46px;
+}
+
+.col-sm-3.estimatemobile {
+    padding-right: 0px;
+}
+
+input.form-check-input.specialdisease {
+    margin-left: 14px;
+}
+
+input.form-check-input.specialdisease {
+    margin-left: 14px;
+}
+
+input.form-check-input.specialdiseases {
+    margin-left: 14px;
+}
+
+span.deceleration {
+    padding-left: 44px;
+}
+
+.row.diseasecheck {
+    padding-bottom: 20px;
+    padding-top: 10px;
+}
+/* STYLE 6
+   ----------------------------- */
+.six h1 {
+    text-align: center;
+    color: #222;
+    font-size: 24px !important;
+    font-weight: 600 !important;
+    text-transform: uppercase !important;
+    word-spacing: 1px !important;
+    letter-spacing: 2px !important;
+    color: #4B49AC !important;
+}
+
+    .six h1 span {
+        line-height: 2em !important;
+        padding-bottom: 15px !important;
+        text-transform: none !important;
+        font-size: .7em !important;
+        font-weight: normal !important;
+        font-style: italic !important;
+        font-family: "Playfair Display","Bookman",serif !important;
+        color: #999 !important;
+        letter-spacing: -0.005em !important;
+        word-spacing: 1px !important;
+        letter-spacing: none !important;
+    }
+
+    .six h1:after, .six h1:before {
+        position: absolute !important;
+        left: 0 !important;
+        bottom: 0 !important;
+        width: 45px !important;
+        height: 4px !important;
+        content: "" !important;
+        right: 45px !important;
+        margin: auto !important;
+        background-color: #ccc !important;
+    }
+
+    .six h1:before {
+        background-color: #d78b8b !important;
+        left: 45px !important;
+        width: 90px !important;
+    }
+
+h1 {
+    position: relative;
+    padding: 0;
+    margin: 0;
+    font-family: "Raleway", sans-serif;
+    font-weight: 300;
+    font-size: 40px;
+    color: #080808;
+    -webkit-transition: all 0.4s ease 0s;
+    -o-transition: all 0.4s ease 0s;
+    transition: all 0.4s ease 0s;
+}
+
+    h1 span {
+        display: block;
+        font-size: 0.5em;
+        line-height: 1.3;
+    }
+
+    h1 em {
+        font-style: normal;
+        font-weight: 600;
+    }
+
+hr.borders {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    box-shadow: 1px 0px 1px 1px #ccc;
+}
+
+form.form-sample.advance {
+    padding-top: 20px;
+}
+
+
+h4.card-title.mb-4.advanceClaimMember {
+    margin-bottom: 0px !important;
+}
+
+.form-group.row.advanceClaimMember {
+    margin-bottom: -14px;
+}
+
+.row.even {
+    /* background: #fbfbfb;
+    border-radius: 4px;*/
+}
+
+.form-group {
+    margin-bottom: 0.4rem;
+}
+
+.col-sm-8 {
+    padding-top: 14px;
+}
+
+label.col-sm-4.col-form-label {
+    padding-top: 23px;
+}
+
+.col-sm-6.estimatemobile {
+    padding-top: 14px;
+}
+
+.col-sm-2.estimatemobileupload {
+    padding-top: 14px;
+}
+
+label.form-check-label.Pay {
+    font-weight: 600;
+}
+
+.row.payto {
+    background: #fbfbfb;
+    padding: 14px;
+    border-radius: 4px;
+    box-shadow: 0px 6px 0px #efefef;
+}
+
+button#btnself {
+    margin-top: 16px;
+}
+
+h4.card-title.mb-4.other {
+    padding-top: 18px;
+}
+
+.table thead th, .jsgrid .jsgrid-table thead th {
+    border-bottom: none;
+}
+
+span.table_span {
+    font-weight: 400;
+}
+
+tr.d-flex.flex-wrap {
+    border-left: 1px solid #ccc;
+}
+
+label.col-sm-12.col-form-label.err {
+    font-size: 12px;
+    color: #8b8b8b;
+    margin-top: -30px;
+}
+
+input.form-control.includedfinalbill {
+    width: 118px;
+}
+
+input.form-check-input.direct {
+    margin-top: -6px;
+    position: inherit;
+}
+
+td.checkdirect {
+    text-align: center;
+}
+
+span.cross {
+    border: 1px solid #ccc;
+    font-size: 10px;
+}
+
+span.spd {
+    padding-left: 42px;
+}
+
+tr.d-flex.flex-wrap.bor {
+    border-left: none;
+}
+
+th.tab.amountinclude {
+    border-left: 1px solid #ccc;
+}
+
+.d-flex.justify-content-between.align-center.flex-wrap.grand {
+    margin-top: 10px;
+    padding-bottom: 10px;
+}
+
+th.ap-list {
+    text-align: center;
+}
+
+span.no {
+    padding-left: 50px;
+    font-weight: 100;
+}
+
+span.yes {
+    padding-left: 70px;
+    font-weight: 100;
+}
+
+.col-md-12.taxable {
+    padding-top: 30px;
+}
+
+button.btn.make {
+    width: 150px;
+}
+
+label.col-sm-4.col-form-label.tax {
+    padding-top: 8px;
+}
+
+hr.exp {
+    margin-top: -20px;
+}
+
+button.btn.view {
+    padding: 0px;
+    height: 46px;
+}
+
+button#btnSubmitWithoutBankDetails {
+    margin-top: 20px;
+}
+
+button.btn.btn-primary.mb-2.advclam {
+    width: 200px;
+}
+
+.amt {
+    margin-left: -36px;
+    width: 144px;
+}
+
+input.form-control.amo {
+    margin-left: -30px;
+}
+
+label.col-sm-4.col-form-label.fhb {
+    padding-top: 10px !important;
+}
+
+@media (max-width: 928px) {
+    .col-sm-2.estimatemobileupload {
+        width: 52px;
+    }
+
+    .col-sm-6.estimatemobile {
+        width: 222px;
+    }
+
+    label.form-check-label.Pay {
+        font-weight: 900;
+        font-size: 18px;
+    }
+
+    .col-md-4.self {
+        padding-left: 36px;
+        margin-top: 12px;
+    }
+
+    .form-group.row.advanceClaimMember {
+        margin-bottom: inherit;
+    }
+
+    .row.even {
+        background: inherit;
+        border-radius: 0px;
+    }
+
+    .row.payto {
+        background: inherit;
+        padding: inherit;
+        border-radius: inherit;
+        box-shadow: inherit;
+        padding-top: 30px;
+    }
+
+    .six h1 {
+        line-height: 30px;
+    }
+
+    form.form-sample.advance {
+        padding-top: 0px;
+    }
+
+    .content-wrapper {
+        padding: 1.5rem 0rem;
+    }
+
+    .col-sm-3.estimatemobile {
+        width: 160px;
+        margin-top: -16px;
+    }
+
+    .col-sm-4.estimatemobileupload {
+        width: 160px;
+        margin-top: -16px;
+    }
+
+    .col-sm-7.advance {
+        margin-top: -16px;
+    }
+
+    th.tab {
+        margin-left: -20px;
+    }
+
+    tr.d-flex.flex-wrap {
+        border-left: none;
+    }
+
+    .col-md-12.deceleration {
+        padding-top: 24px;
+    }
+
+    input.form-control.amount {
+        width: 140px;
+    }
+
+    .row.diseasecheck {
+        padding-top: 24px;
+    }
+
+    label.col-sm-12.col-form-label.err {
+        margin-top: inherit;
+    }
+
+    .col-sm-4.estimatemobile.mb-2.es {
+        width: 160px;
+    }
+
+    .col-sm-4.estimatemobileupload.es {
+        margin-top: 0px;
+    }
+
+    .amt {
+        margin-left: inherit;
+        width: 144px;
+    }
+
+    input.form-control.amo {
+        margin-left: inherit;
+    }
+
+    .col-sm-4.estimatemobile.mb-2.es {
+    }
+
+    hr.exp {
+        margin-top: 10px;
+    }
+}
+
+@media screen and (min-device-width: 390px) and (max-device-width: 844px) {
+    .col-sm-3.estimatemobile {
+        width: 175px;
+        margin-top: -16px;
+    }
+
+    .col-sm-4.estimatemobileupload {
+        width: 175px;
+        margin-top: -16px;
+    }
+}
+
+@media screen and (min-device-width: 390px) and (max-device-width: 844px) {
+    .col-sm-3.estimatemobile {
+        width: 175px;
+        margin-top: -16px;
+    }
+
+    .col-sm-4.estimatemobileupload {
+        width: 175px;
+        margin-top: -16px;
+    }
+}
+
+@media screen and (min-device-width: 375px) and (max-device-width: 667px) {
+    .col-sm-3.estimatemobile {
+        width: 165px;
+        margin-top: -16px;
+    }
+
+    .col-sm-4.estimatemobileupload {
+        width: 165px;
+        margin-top: -16px;
+    }
+}
+
+@media screen and (min-device-width: 414px) and (max-device-width: 896px) {
+    .col-sm-3.estimatemobile {
+        width: 184px;
+        margin-top: -16px;
+    }
+
+    .col-sm-4.estimatemobileupload {
+        width: 184px;
+        margin-top: -16px;
+    }
+}
+
+@media screen and (min-device-width: 390px) and (max-device-width: 844px) {
+    .col-sm-3.estimatemobile {
+        width: 174px;
+        margin-top: -16px;
+    }
+
+    .col-sm-4.estimatemobileupload {
+        width: 174px;
+        margin-top: -16px;
+    }
+}

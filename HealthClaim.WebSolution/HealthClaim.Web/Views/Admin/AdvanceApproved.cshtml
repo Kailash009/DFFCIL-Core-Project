@@ -1,0 +1,419 @@
+﻿<link href="~/css/custom/dfccil1011_02.css" rel="stylesheet" asp-append-version="true" />
+<form>
+    <div class="col-lg-12 grid-margin stretch-card">
+        <div class="card">
+            <div class="card-body">
+                <div class="row">
+                    <div class="col-md-4 col-lg-4 col-sm-6  mb-2 mt-2">
+                        <div class="card-icon-strech">
+                            <div class="Member-icon">
+                                <i class="fa fa-users " aria-hidden="true"></i>
+                            </div>
+                            <div>
+                                <p class="mb-0 member-para">Total Notificaction</p>
+                                <span class="member" id="spanMemberNotification">30</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-lg-4 col-sm-6  mb-2 mt-2">
+                        <div class="card-icon-strech">
+                            <div class="Member-icon">
+                                <i class="fa fa-user"></i>
+                            </div>
+                            <div>
+                                <p class="mb-0 member-para">Advance Pay</p>
+                                <span class="member" id="spanMemberAdvancePay">20</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-lg-4   mb-2 mt-2">
+                        <div class="card-icon-strech">
+                            <div class="Member-icon">
+                                <i class="fa fa-desktop"></i>
+                            </div>
+                            <div>
+                                <p class="mb-0 member-para">Other</p>
+                                <span class="member" id="spanMemberOther">10</span>
+                            </div>
+                        </div>
+                    </div>
+                    @*
+                    <div class="col-md-6">
+                    <a asp-action="AdvanceRequest" asp-controller="Home" class="btn btn-primary Request">New Request</a>
+                    </div>
+                    *@
+                </div>
+            </div>
+        </div>
+    </div>
+    @*   table section *@
+    <div class="col-lg-12 grid-margin stretch-card">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title">Advance List</h4>
+                <div class="table-responsive">
+                    <table class="table table_mobile">
+                        <thead>
+                            <tr>
+                                <th>Sr No</th>
+                                <th>Employee Name</th>
+                                <th>Pateint Name</th>
+                                <th>Relation</th>
+                                <th>Requested Date</th>
+                                <th>Amount(₹)</th>
+                                <th>View</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>1</td>
+                                <td>Jacob</td>
+                                <td>John</td>
+                                <td>Mother</td>
+                                <td>12 May 2017</td>
+                                <td>12000.00</td>
+                                <td><button class="btn btn-success-details" type="button" onclick="advanced_app('emp_id','Jacob','John','12 May 2017','12000.00')">Details</button></td>
+                            </tr>
+                            <tr>
+                                <td>2</td>
+                                <td>Messsy</td>
+                                <td>Eion</td>
+                                <td>Mother</td>
+                                <td>15 May 2017</td>
+                                <td>10000.00</td>
+                                <td><button class="btn btn-success-details" type="button" onclick="advanced_app('emp_id','Messy','Eion','15 May 2017','10000.00')">Details</button></td>
+                            </tr>
+                            <tr>
+                                <td>3</td>
+                                <td>John</td>
+                                <td>Johny</td>
+                                <td>Brother</td>
+                                <td>14 May 2017</td>
+                                <td>17000.00</td>
+                                <td><button class="btn btn-success-details" type="button" onclick="advanced_app('emp_id','John','Johny','14 May 2017','17000.00')">Details</button></td>
+                            </tr>
+                            <tr>
+                                <td>4</td>
+                                <td>Peter</td>
+                                <td>Perry</td>
+                                <td>Father</td>
+                                <td>16 May 2017</td>
+                                <td>16000.00</td>
+                                <td><button class="btn btn-success-details" type="button" onclick="advanced_app('emp_id','Peter','Perry','16 May 2017','16000.00')">Details</button></td>
+                            </tr>
+                            <tr>
+                                <td>5</td>
+                                <td>Dave</td>
+                                <td>josh</td>
+                                <td>Sister</td>
+                                <td>20 May 2017</td>
+                                <td>14000.00</td>
+                                <td><button class="btn btn-success-details" type="button" onclick="advanced_app('emp_id','Dave','Josh','20 May 2017','14000.00')">Details</button></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+    @*  patient details *@
+    <div id="advanced_approved" style="display:none;">
+        <div class="col-lg-12 grid-margin stretch-card">
+            <div class="card">
+                <div class="card-body">
+                    <div class="row">
+                        <div class="col-lg-3 col-md-6">
+                            <div class="patient-details">
+                                <h5 class="patient-haeding">Patient Name</h5>
+                                <h3 class="patient-detais" id="headingAdvancedApprovedPatientName">Mayawati devi</h3>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6">
+                            <div class="patient-details">
+                                <h5 class="patient-haeding">Relation</h5>
+                                <h3 class="patient-detais" id="headingAdvancedApprovedRelationName">Mother</h3>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6">
+                            <div class="patient-details">
+                                <h5 class="patient-haeding">D.O.B</h5>
+                                <h3 class="patient-detais" id="headingAdvancedApprovedDob">09/11/1998</h3>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6">
+                            <div class="patient-details">
+                                <h5 class="patient-haeding">Gender</h5>
+                                <h3 class="patient-detais" id="headingAdvancedApprovedFemale">Female</h3>
+                            </div>
+                        </div>
+                    </div>
+                    <hr />
+                    <div class="row">
+                        <div class="col-lg-3 col-md-6">
+                            <div class="patient-details">
+                                <h5 class="patient-haeding">Advance Request Date</h5>
+                                <h3 class="patient-detais" id="headingAdvancedApprovedAdvancedDate">09/12/2023</h3>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-6">
+                            <div class="patient-details">
+                                <h5 class="patient-haeding">Approved Requested Amount (INR)</h5>
+                                <h3 class="patient-detais" id="headingAdvancedApprovedRequesteAmount">80,000.00</h3>
+                            </div>
+                        </div>
+                        <div class="col-lg-2 col-md-6">
+                            <div class="patient-details">
+                                <h5 class="patient-haeding">Status</h5>
+                                <h3 class="patient-detais" id="headingAdvancedApprovedPendingApproval">Pending Approval</h3>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6">
+                            <div class="patient-details">
+                                <h5 class="patient-haeding">Approval Date</h5>
+                                <h3 class="patient-detais" id="headingAdvancedApprovedApprovelDate">-NA-</h3>
+                            </div>
+                        </div>
+                    </div>
+                    <hr />
+                    <div class="col-12  advanced-approved">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="form-group row">
+                                    <label class="col-lg-4 col-form-label">Hospital Name</label>
+                                    <div class="col-lg-8">
+                                        <input type="text" class="form-control" id="inputAdvanceApprovedHospitalName" value="Applo" readonly>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-group row">
+                                    <label class="col-lg-4 col-form-label">Hospital Reg. No.</label>
+                                    <div class="col-lg-8">
+                                        <input type="text" class="form-control" id="inputAdavnceApprovedHospitalReg" value="25375" readonly>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-group row">
+                                    <label class="col-lg-4 col-form-label">Doctor Name</label>
+                                    <div class="col-lg-8">
+                                        <input type="text" class="form-control" id="inputAdvanceApprovedDocterName" value="Dr. Mathur" readonly>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-group row addmission-flex">
+                                    <div class="">
+                                        <label class="col-form-label">Diagnosis</label>
+                                    </div>
+                                    <div class="btn-view">
+                                        <button class="btn"><i class="fa fa-eye" aria-hidden="true"></i> View File</button>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-group row">
+                                    <label class="col-lg-4 col-form-label">Likely Date of Admission</label>
+                                    <div class="col-lg-8">
+                                        <input type="text" class="form-control" id="inputAdvancedApprovedLikelyDateOfAdmission" value="30/2/2023" readonly>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-group row addmission-flex1">
+                                    <div class="">
+                                        <label class="col-form-label">Admission Advice</label>
+                                    </div>
+                                    <div class="btn-view">
+                                        <button class="btn"><i class="fa fa-eye" aria-hidden="true"></i> View File</button>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-group row addmission-flex">
+                                    <div class="">
+                                        <label class="col-form-label">Other</label>
+                                    </div>
+                                    <div class="btn-view">
+                                        <button class="btn"><i class="fa fa-eye" aria-hidden="true"></i> View File</button>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-6 col-md-12">
+                                <div class="form-group row">
+                                    <label class="col-lg-7 col-md-7  col-form-label">ITR/Income Proof <b>(Show on Parents Select)</b></label>
+                                    <div class="btn-view">
+                                        <button class="btn"><i class="fa fa-eye" aria-hidden="true"></i> View File</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="form-group row">
+                                    <label class="col-lg-4 col-md-5 col-form-label">Estimate Amount</label>
+                                    <div class="col-lg-5 col-md-7">
+                                        <input type="text" class="form-control" id="inputAdvancedApprovedEstimateAmout" value="1,00,000.00" readonly>
+                                    </div>
+                                    <div class="btn-view">
+                                        <button class="btn"><i class="fa fa-eye" aria-hidden="true"></i> View File</button>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-group row addmission-flex">
+                                    <label class="col-form-label">Beneficiary</label>
+                                    <div class="btn-view">
+                                        <button type="button" class="btn" data-toggle="modal" data-target="#myModalview"><i class="fa fa-eye up" aria-hidden="true"></i> View Details</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="form-group row">
+                                    <label class="col-lg-4 col-form-label">Advanced Requested</label>
+                                    <div class="col-lg-8">
+                                        <input type="text" class="form-control" id="inputAdvancedApprovedAdvancedRequested" value="80,000.00" readonly>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-group row">
+                                    <label class="col-lg-4 col-form-label">Approved Amount</label>
+                                    <div class="col-lg-8">
+                                        <input type="text" class="form-control" id="inputAdvancedApprovedApprovedAmount" value="70,000.00" readonly>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-12">
+                            <div class="d-flex justify-content-end">
+                                <button class="btn btn-success-details">Approved and send to Finance</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-12 grid-margin stretch-card">
+            <div class="card">
+                <div class="card-body">
+                    <div class="col-12">
+                        <h4 class="card-title">Top Up Details</h4>
+                        <div class="row">
+                            <div class="col-lg-6">
+                                <div class="form-group row">
+                                    <label class="col-lg-4 col-md-5 col-form-label">Revise Estimate Amount</label>
+                                    <div class="col-lg-4 col-md-3 estimatemobile">
+                                        <input id="inputTopDetailsEstimateAmount" type="tel" class="form-control" placeholder="&#8377; 00.00" value="1,80,000.00">
+                                    </div>
+                                    <div class="col-lg-4 col-md-4 estimatemobileupload">
+                                        <div class="btn-view">
+                                            <button class="btn"><i class="fa fa-eye" aria-hidden="true"></i> View File</button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-group row">
+                                    <label class="col-lg-4 col-form-label">Top Up Amount Required</label>
+                                    <div class="col-lg-8">
+                                        <input type="text" id="inputTopUpDetailsAmoutRequired" class="form-control" value="80,000.00">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-group row">
+                                    <label class="col-lg-4 col-form-label">Approved Amount</label>
+                                    <div class="col-lg-8">
+                                        <input type="text" id="inputTopUpDetailsApprovedAmount" class="form-control" value="70,000.00">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-6">
+                                <div class="form-group">
+                                    <label class="col-sm-12 col-form-label err ml-auto">* For parent, the maximum advance limit is 80% of the Hospital's Estimate Amount.</label>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-group row addmission-flex">
+                                    <label class="col-form-label">Beneficiary</label>
+                                    <div class="btn-view">
+                                        <button type="button" class="btn" data-toggle="modal" data-target="#myModalview"><i class="fa fa-eye up" aria-hidden="true"></i> View Details</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-12">
+                            <div class="d-flex justify-content-end">
+                                <button class="btn btn-success-details">Approved and send to Finance</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</form>
+@* model  *@
+<!-- The View Modal Starts -->
+<div class="modal fade" id="myModalview">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <!-- Modal Header -->
+            <div class="modal-header">
+                <h3 class="modal-title">Beneficiary Details</h3>
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+            </div>
+            <!-- Modal body -->
+            <div class="modal-body">
+                <div class="row">
+                    <div class="col-md-6 col-lg-3 mt-3 mb-3">
+                        <div class="d-flex align-items-baseline">
+                            <h4 class="pr-3">Name : </h4>
+                            <h6 class="headingModelName">Sivanshu</h6>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-3 mt-3 mb-3">
+                        <div class="d-flex align-items-baseline">
+                            <h4 class="pr-3">Account No : </h4>
+                            <h6 class="headingModelAccountNo">CNB0111742</h6>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-3 mt-3 mb-3">
+                        <div class="d-flex align-items-baseline">
+                            <h4 class="pr-3">Bank Name : </h4>
+                            <h6 id="headingModelBankName">Central Bank of India</h6>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-3 mt-3 mb-3">
+                        <div class="d-flex align-items-baseline">
+                            <h4 class="pr-3">UTR No : </h4>
+                            <h6 id="headingModelUtrNo">XXXXRCYYYYMMDD</h6>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Modal footer -->
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div>
+<!-- The View Modal Ends -->
+<script src="~/customjs/admin/AdvanceApproved.js" asp-append-version="true"></script>
+<script>
+    var advancedapproved = document.getElementById("advanced_approved");
+    function advanced_app(emp_id, emp_name, emp_relation, emp_date, emp_amt) {
+        advancedapproved.style.display = "block";
+        var patientname = document.getElementById("patient_name");
+        patientname.innerText = emp_name;
+        var patientrel = document.getElementById("emp_relation");
+        patientrel.innerText = emp_name;
+        var patientdate = document.getElementById("emp_date");
+        patientdate.innerText = emp_date;
+        var patientamt = document.getElementById("emp_amt");
+        patientamt.innerText = emp_amt;
+    }
+</script>

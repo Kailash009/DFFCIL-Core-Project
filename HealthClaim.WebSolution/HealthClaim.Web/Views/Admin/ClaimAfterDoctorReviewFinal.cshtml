@@ -1,0 +1,553 @@
+﻿<link href="~/css/custom/dfccil1011_02.css" rel="stylesheet" asp-append-version="true" />
+<form action="" method="">
+    <div class="col-lg-12 grid-margin stretch-card">
+        <div class="card">
+            <div class="card-body">
+                <div class="d-flex justify-content-between align-center flex-wrap">
+                    <h4 class="card-title mb-4">Patient and Advance Details</h4>
+                    <div>
+                        <div class="table-responsive">
+                            <table class="table">
+                                <thead>
+                                    <tr class="d-flex flex-wrap">
+                                        <th>Total Limit <span class="table_span" id="spanClaimAfterReviewFinalPatientAndTotalLimit">₹10,00,000.00</span></th>
+                                        <th>Used Limit <span class="table_span" id="spanClaimAfterReviewFinalPatientAndUsedLimit">₹2,60,000.00</span></th>
+                                        <th>Balance Limit <span class="table_span" id="spanClaimAfterReviewFinalPatientAndBalanceLimit">₹2,40,000.00</span></th>
+                                    </tr>
+                                </thead>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+                <div class="table-responsive">
+                    <table class="table table-striped">
+                        <thead>
+                            <tr>
+                                <th>
+                                    Employee Name
+                                </th>
+                                <th>
+                                    Patient Name
+                                </th>
+                                <th>
+                                    Relation
+                                </th>
+                                <th>
+                                    Date of Birth
+                                </th>
+                                <th>
+                                    Gender
+                                </th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td id="tdClaimReviewDocterFinalEmpName">
+                                    <a href="#">Sweta Singh</a>
+                                </td>
+                                <td id="tdClaimReviewDocterFinalPatientName">
+                                    Balwant Singh
+                                </td>
+                                <td style="color:#4B49AC" id="tdClaimReviewDocterFinalEmpRelation">
+                                    Father
+                                </td>
+                                <td id="tdClaimReviewDocterFinalEmpDob">
+                                    Jan 01, 1962
+                                </td>
+                                <td id="tdClaimReviewDocterFinalEmpGender">
+                                    Male
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-12 grid-margin">
+        <div class="card">
+            <div class="card-body">
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="form-group row">
+                            <label class="col-lg-4 col-form-label">Hospital Name</label>
+                            <div class="col-lg-8">
+                                <input type="text" class="form-control" value="Applo" id="inputClaimAfterReviewFinalHospitalName">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="form-group row">
+                            <label class="col-lg-4 col-form-label">Hospital Reg. No.</label>
+                            <div class="col-lg-8">
+                                <input type="text" class="form-control" value="25375" id="inputClaimAfterReviewFinalHospitalRegNo">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="form-group row">
+                            <label class="col-lg-4 col-form-label">Doctor Name</label>
+                            <div class="col-lg-8">
+                                <input type="text" class="form-control" value="Dr. Mathur" id="inputClaimAfterReviewFinalDoctorName">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="addmission-flex form-group row">
+                            <label class="col-form-label">Diagnosis</label>
+                            <div class="btn-view">
+                                <button class="btn"><i class="fa fa-eye" aria-hidden="true"></i> View File</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="form-group row">
+                            <label class="col-lg-4 col-form-label">Date of Admission</label>
+                            <div class="col-lg-8">
+                                <input type="text" class="form-control" value="25/2/2023" id="inputClaimAfterReviewFinalDateOfAdmission">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="form-group row addmission-flex1">
+                            <label class="col-form-label">Admission Advice</label>
+                            <div class="btn-view">
+                                <button class="btn"><i class="fa fa-eye" aria-hidden="true"></i> View File</button>
+                            </div>
+                            <div class="col-md-12">
+                                <textarea class="form-control" cols="10" rows="2" placeholder="Doctor comment" id="inputClaimAfterReviewFinalAdmissionAdvice"></textarea>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="form-group row">
+                            <label class="col-lg-4 col-form-label">Estimated Amount</label>
+                            <div class="col-lg-5">
+                                <input type="text" class="form-control" value="10,000.00" id="inputClaimAfterReviewFinalEstimatedAmount">
+                            </div>
+                            <div class="">
+                                <div class="btn-view">
+                                    <button class="btn"><i class="fa fa-eye" aria-hidden="true"></i> View File</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="form-group row">
+                            <label class="col-lg-4 col-form-label">Requested Amount</label>
+                            <div class="col-lg-8">
+                                <input type="text" class="form-control" value="7,000.00" id="inputClaimAfterReviewFinalRequestedAmount">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="form-group row">
+                            <label class="col-lg-4 col-form-label">Approved Amount</label>
+                            <div class="col-lg-8">
+                                <input type="text" class="form-control" value="7,000.00" id="inputClaimAfterReviewFinalApprovedAmount">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="form-group row">
+                            <label class="col-lg-4 col-form-label">Paid To</label>
+                            <div class="col-lg-8">
+                                <input type="text" class="form-control" value="Anil (Self)" id="inputClaimAfterReviewFinalPaidTo">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="form-group row">
+                            <label class="col-sm-8 col-form-label">ITR/Income Proof <b>(Show on Parents Select)</b></label>
+                            <div class="btn-view">
+                                <button class="btn"><i class="fa fa-eye" aria-hidden="true"></i> View File</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-12 grid-margin">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title mb-4">Additional Details</h4>
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="form-group row">
+                            <label class="col-lg-4 col-form-label">Date of Discharge</label>
+                            <div class="col-lg-8">
+                                <input type="text" class="form-control" value="30/2/2023" id="inputReviewFinalDateOfDischarge">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                    </div>
+                    <div class="col-md-6">
+                        <div class="form-group row addmission-flex">
+                            <label class="col-form-label">Discharge Summary</label>
+                            <div class="btn-view">
+                                <button class="btn"><i class="fa fa-eye" aria-hidden="true"></i> View File</button>
+                            </div>
+                            <div class="col-md-12">
+                                <textarea class="form-control" cols="10" rows="2" placeholder="Doctor comment" id="inputReviewFinalDischargeDishchaRgeSummary"></textarea>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="form-group row addmission-flex">
+                            <label class="col-form-label">Investigation Reports</label>
+                            <div class="btn-view">
+                                <button class="btn"><i class="fa fa-eye" aria-hidden="true"></i> View File</button>
+                            </div>
+                            <div class="col-md-12">
+                                <textarea class="form-control" cols="10" rows="2" placeholder="Doctor comment" id="inputReviewFinalInvestigationReport"></textarea>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="form-group row">
+                            <label class="col-lg-4 col-form-label">Total Hospital Bill</label>
+                            <div class="col-lg-5">
+                                <input type="text" class="form-control" value="10,000.00" id="inputReviewFinalTotalHospitalBill">
+                            </div>
+                            <div class="">
+                                <div class="btn-view">
+                                    <button class="btn"><i class="fa fa-eye" aria-hidden="true"></i> View File</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-12 grid-margin">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title mb-4">Bill Details</h4>
+                <div class="table-responsive">
+                    <table class="table  table_mobile">
+                        <thead>
+                            <tr>
+                                <th>
+                                    S.No.
+                                </th>
+                                <th>
+                                    Bill Type
+                                </th>
+                                <th>
+                                    Amount
+                                </th>
+                                <th>
+                                    Included in Final Bill
+                                </th>
+                                <th>
+                                    View
+                                </th>
+                                <th>
+                                    Approved Amount
+                                </th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>1</td>
+                                <td>Medicine</td>
+                                <td>
+                                    <input type="text" class="form-control form-control-mobile" value="1000.00">
+                                </td>
+                                <td class="checkdirect">
+                                    <input type="checkbox" class="form-check-input direct mt-0" Disabled checked> Included in Final Bill
+                                </td>
+                                <td>
+                                    <button class="btn"><i class="fa fa-eye" aria-hidden="true"></i> View File</button>
+                                </td>
+                                <td>
+                                    <input type="number" class="form-control form-control-mobile" value="1000.00">
+                                </td>
+                                <td>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td></td>
+                                <td>Medicine</td>
+                                <td>
+                                    <input type="text" class="form-control form-control-mobile" value="1000.00">
+                                </td>
+                                <td>
+                                    <label class="col-form-label notinclude"> Not included in Final Bill</label>
+                                </td>
+                                <td>
+                                    <button class="btn"><i class="fa fa-eye" aria-hidden="true"></i> View File</button>
+                                </td>
+                                <td>
+                                    <input type="number" class="form-control form-control-mobile" value="1000.00">
+                                </td>
+                                <td>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>2</td>
+                                <td>Consultation</td>
+                                <td>
+                                    <input type="text" class="form-control form-control-mobile" value="1000.00">
+                                </td>
+                                <td class="checkdirect">
+                                    <input type="checkbox" class="form-check-input direct mt-0" Disabled checked> Included in Final Bill
+                                </td>
+                                <td>
+                                    <button class="btn"><i class="fa fa-eye" aria-hidden="true"></i> View File</button>
+                                </td>
+                                <td>
+                                    <input type="number" class="form-control form-control-mobile" value="1000.00">
+                                </td>
+                                <td>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td></td>
+                                <td>Consultation</td>
+                                <td>
+                                    <input type="text" class="form-control form-control-mobile" value="1000.00">
+                                </td>
+                                <td>
+                                    <label class="col-form-label notinclude"> Not included in Final Bill</label>
+                                </td>
+                                <td>
+                                    <button class="btn"><i class="fa fa-eye" aria-hidden="true"></i> View File</button>
+                                </td>
+                                <td>
+                                    <input type="number" class="form-control form-control-mobile" value="1000.00">
+                                </td>
+                                <td>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>3</td>
+                                <td>Investigation</td>
+                                <td>
+                                    <input type="text" class="form-control form-control-mobile" value="1,000.00">
+                                </td>
+                                <td class="checkdirect">
+                                    <input type="checkbox" class="form-check-input direct mt-0" Disabled checked> Included in Final Bill
+                                </td>
+                                <td>
+                                    <button class="btn"><i class="fa fa-eye" aria-hidden="true"></i> View File</button>
+                                </td>
+                                <td>
+                                    <input type="number" class="form-control form-control-mobile" value="1000.00">
+                                </td>
+                                <td>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td></td>
+                                <td>Investigation</td>
+                                <td>
+                                    <input type="text" class="form-control form-control-mobile" value="1000.00">
+                                </td>
+                                <td>
+                                    <label class="col-form-label notinclude"> Not included in Final Bill</label>
+                                </td>
+                                <td>
+                                    <button class="btn"><i class="fa fa-eye" aria-hidden="true"></i> View File</button>
+                                </td>
+                                <td>
+                                    <input type="number" class="form-control form-control-mobile" value="1000.00">
+                                </td>
+                                <td>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>4</td>
+                                <td>Room Rent</td>
+                                <td>
+                                    <input type="text" class="form-control form-control-mobile" value="1000.00">
+                                </td>
+                                <td class="checkdirect">
+                                    <input type="checkbox" class="form-check-input direct mt-0" Disabled checked> Included in Final Bill
+                                </td>
+                                <td>
+                                    <button class="btn"><i class="fa fa-eye" aria-hidden="true"></i> View File</button>
+                                </td>
+                                <td>
+                                    <input type="number" class="form-control form-control-mobile" value="1000.00">
+                                </td>
+                                <td>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td></td>
+                                <td>Room Rent</td>
+                                <td>
+                                    <input type="text" class="form-control form-control-mobile" value="1,000.00">
+                                </td>
+                                <td>
+                                    <label class="col-form-label notinclude"> Not included in Final Bill</label>
+                                </td>
+                                <td>
+                                    <button class="btn"><i class="fa fa-eye" aria-hidden="true"></i> View File</button>
+                                </td>
+                                <td>
+                                    <input type="number" class="form-control form-control-mobile" value="1000.00">
+                                </td>
+                                <td>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>5</td>
+                                <td>Other</td>
+                                <td>
+                                    <input type="text" class="form-control form-control-mobile" value="1,000.00">
+                                </td>
+                                <td class="checkdirect">
+                                    <input type="checkbox" class="form-check-input direct mt-0" Disabled checked> Included in Final Bill
+                                </td>
+                                <td>
+                                    <button class="btn"><i class="fa fa-eye" aria-hidden="true"></i> View File</button>
+                                </td>
+                                <td>
+                                    <input type="number" class="form-control form-control-mobile" value="500.00">
+                                </td>
+                                <td>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td></td>
+                                <td>Other</td>
+                                <td>
+                                    <input type="text" class="form-control form-control-mobile" value="1,000.00">
+                                </td>
+                                <td>
+                                    <label class="col-form-label notinclude"> Not included in Final Bill</label>
+                                </td>
+                                <td>
+                                    <button class="btn"><i class="fa fa-eye" aria-hidden="true"></i> View File</button>
+                                </td>
+                                <td>
+                                    <input type="tel" class="form-control form-control-mobile" value="500.00">
+                                </td>
+                                <td>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td></td>
+                                <td><b>Total</b></td>
+                                <td>
+                                    <input type="text" class="form-control form-control-mobile" value="10,000.00">
+                                </td>
+                                <td><b>Approved Total</b></td>
+                                <td>
+                                    <input type="text" class="form-control form-control-mobile" value="9000.00">
+                                </td>
+                                <td>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+                <hr />
+                <div class="d-flex justify-content-between align-center flex-wrap">
+                    <div class="spacial-desiese">
+                        <div class="">
+                            <label class="form-check-label">
+                                Special Disease (By Balwant Singh)
+                            </label>
+                        </div>
+                        <div class="">
+                            <label class="form-check-label">
+                                <input type="radio" class="form-check-input" checked name="optionsRadios1" id="optionsRadios2" value="self">
+                                Yes
+                            </label>
+                        </div>
+                        <div class="">
+                            <label class="form-check-label">
+                                <input type="radio" class="form-check-input" submit="" name="optionsRadios" id="" value="" disabled>
+                                No
+                            </label>
+                        </div>
+                    </div>
+                    <div class="spacial-desiese">
+                        <div class="">
+                            <label class="form-check-label">
+                                Special Disease (By Dr. Arjun Singh)
+                            </label>
+                        </div>
+                        <div class="">
+                            <label class="form-check-label">
+                                <input type="radio" class="form-check-input" checked name="optionsRadios" id="" value="self">
+                                Yes
+                            </label>
+                        </div>
+                        <div class="">
+                            <label class="form-check-label">
+                                <input type="radio" class="form-check-input" name="optionsRadios" id="" value="self" disabled>
+                                No
+                            </label>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-12 grid-margin stretch-card">
+        <div class="col-lg-12 grid-margin stretch-card">
+            <div class="card">
+                <div class="card-body">
+                    <h4 class="card-title mb-4">Summary</h4>
+                    <div class="table-responsive">
+                        <table class="table">
+                            <tbody>
+                                <tr>
+                                    <td class="text-muted">Total Bill Amount</td>
+                                    <td class="text-muted" id="tdClaimReviewDoctorFinalTotalBillAmount">
+                                        ₹10,000.00
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td><b>Total Approved Amount</b></td>
+                                    <td id="tdClaimReviewDoctorFinalTotalApprovedAmount">
+                                        <b>₹9000.00</b>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>Deductions (20% on Final Amount)</td>
+                                    <td id="tdClaimReviewDoctorFinalDeduction">
+                                        ₹2000.00
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>Advance Paid</td>
+                                    <td id="tdClaimReviewDoctorFinalAdvancedPaid">
+                                        ₹4000.00
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td><b>Net Due Amount</b></td>
+                                    <td id="tdClaimReviewDoctorFinalNetDueAmount">
+                                        <b>₹5000.00</b>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="d-flex justify-content-end col-md-12">
+        <button class="btn btn-success-details">Confirm and send to Finance</button>
+    </div>
+</form>
+<script src="~/customjs/admin/claimafterdoctorreviewfinal.js" asp-append-version="true"></script>

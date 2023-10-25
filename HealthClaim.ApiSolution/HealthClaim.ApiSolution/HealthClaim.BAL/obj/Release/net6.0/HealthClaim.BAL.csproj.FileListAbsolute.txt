@@ -1,0 +1,147 @@
+D:\10142023\HealthClaim.ApiSolution\HealthClaim.BAL\bin\Release\net6.0\HealthClaim.BAL.deps.json
+D:\10142023\HealthClaim.ApiSolution\HealthClaim.BAL\bin\Release\net6.0\HealthClaim.BAL.dll
+D:\10142023\HealthClaim.ApiSolution\HealthClaim.BAL\bin\Release\net6.0\HealthClaim.BAL.pdb
+D:\10142023\HealthClaim.ApiSolution\HealthClaim.BAL\bin\Release\net6.0\HealthClaim.DAL.dll
+D:\10142023\HealthClaim.ApiSolution\HealthClaim.BAL\bin\Release\net6.0\HealthClaim.Logger.dll
+D:\10142023\HealthClaim.ApiSolution\HealthClaim.BAL\bin\Release\net6.0\HealthClaim.Model.dll
+D:\10142023\HealthClaim.ApiSolution\HealthClaim.BAL\bin\Release\net6.0\HealthClaim.Utility.dll
+D:\10142023\HealthClaim.ApiSolution\HealthClaim.BAL\bin\Release\net6.0\HealthClaim.DAL.pdb
+D:\10142023\HealthClaim.ApiSolution\HealthClaim.BAL\bin\Release\net6.0\HealthClaim.Logger.pdb
+D:\10142023\HealthClaim.ApiSolution\HealthClaim.BAL\bin\Release\net6.0\HealthClaim.Model.pdb
+D:\10142023\HealthClaim.ApiSolution\HealthClaim.BAL\bin\Release\net6.0\HealthClaim.Utility.pdb
+D:\10142023\HealthClaim.ApiSolution\HealthClaim.BAL\obj\Release\net6.0\HealthClaim.BAL.csproj.AssemblyReference.cache
+D:\10142023\HealthClaim.ApiSolution\HealthClaim.BAL\obj\Release\net6.0\HealthClaim.BAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\10142023\HealthClaim.ApiSolution\HealthClaim.BAL\obj\Release\net6.0\HealthClaim.BAL.AssemblyInfoInputs.cache
+D:\10142023\HealthClaim.ApiSolution\HealthClaim.BAL\obj\Release\net6.0\HealthClaim.BAL.AssemblyInfo.cs
+D:\10142023\HealthClaim.ApiSolution\HealthClaim.BAL\obj\Release\net6.0\HealthClaim.BAL.csproj.CoreCompileInputs.cache
+D:\10142023\HealthClaim.ApiSolution\HealthClaim.BAL\obj\Release\net6.0\HealthClaim.BAL.csproj.CopyComplete
+D:\10142023\HealthClaim.ApiSolution\HealthClaim.BAL\obj\Release\net6.0\HealthClaim.BAL.dll
+D:\10142023\HealthClaim.ApiSolution\HealthClaim.BAL\obj\Release\net6.0\refint\HealthClaim.BAL.dll
+D:\10142023\HealthClaim.ApiSolution\HealthClaim.BAL\obj\Release\net6.0\HealthClaim.BAL.pdb
+D:\10142023\HealthClaim.ApiSolution\HealthClaim.BAL\obj\Release\net6.0\ref\HealthClaim.BAL.dll
+D:\10162023\HealthClaim.ApiSolution\HealthClaim.BAL\bin\Release\net6.0\HealthClaim.BAL.deps.json
+D:\10162023\HealthClaim.ApiSolution\HealthClaim.BAL\bin\Release\net6.0\HealthClaim.BAL.dll
+D:\10162023\HealthClaim.ApiSolution\HealthClaim.BAL\bin\Release\net6.0\HealthClaim.BAL.pdb
+D:\10162023\HealthClaim.ApiSolution\HealthClaim.BAL\bin\Release\net6.0\HealthClaim.DAL.dll
+D:\10162023\HealthClaim.ApiSolution\HealthClaim.BAL\bin\Release\net6.0\HealthClaim.Logger.dll
+D:\10162023\HealthClaim.ApiSolution\HealthClaim.BAL\bin\Release\net6.0\HealthClaim.Model.dll
+D:\10162023\HealthClaim.ApiSolution\HealthClaim.BAL\bin\Release\net6.0\HealthClaim.Utility.dll
+D:\10162023\HealthClaim.ApiSolution\HealthClaim.BAL\bin\Release\net6.0\HealthClaim.DAL.pdb
+D:\10162023\HealthClaim.ApiSolution\HealthClaim.BAL\bin\Release\net6.0\HealthClaim.Logger.pdb
+D:\10162023\HealthClaim.ApiSolution\HealthClaim.BAL\bin\Release\net6.0\HealthClaim.Model.pdb
+D:\10162023\HealthClaim.ApiSolution\HealthClaim.BAL\bin\Release\net6.0\HealthClaim.Utility.pdb
+D:\10162023\HealthClaim.ApiSolution\HealthClaim.BAL\obj\Release\net6.0\HealthClaim.BAL.csproj.AssemblyReference.cache
+D:\10162023\HealthClaim.ApiSolution\HealthClaim.BAL\obj\Release\net6.0\HealthClaim.BAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\10162023\HealthClaim.ApiSolution\HealthClaim.BAL\obj\Release\net6.0\HealthClaim.BAL.AssemblyInfoInputs.cache
+D:\10162023\HealthClaim.ApiSolution\HealthClaim.BAL\obj\Release\net6.0\HealthClaim.BAL.AssemblyInfo.cs
+D:\10162023\HealthClaim.ApiSolution\HealthClaim.BAL\obj\Release\net6.0\HealthClaim.BAL.csproj.CoreCompileInputs.cache
+D:\10162023\HealthClaim.ApiSolution\HealthClaim.BAL\obj\Release\net6.0\HealthClaim.BAL.csproj.CopyComplete
+D:\10162023\HealthClaim.ApiSolution\HealthClaim.BAL\obj\Release\net6.0\HealthClaim.BAL.dll
+D:\10162023\HealthClaim.ApiSolution\HealthClaim.BAL\obj\Release\net6.0\refint\HealthClaim.BAL.dll
+D:\10162023\HealthClaim.ApiSolution\HealthClaim.BAL\obj\Release\net6.0\HealthClaim.BAL.pdb
+D:\10162023\HealthClaim.ApiSolution\HealthClaim.BAL\obj\Release\net6.0\ref\HealthClaim.BAL.dll
+D:\10202023\HealthClaim.ApiSolution\HealthClaim.ApiSolution\HealthClaim.BAL\bin\Release\net6.0\HealthClaim.BAL.deps.json
+D:\10202023\HealthClaim.ApiSolution\HealthClaim.ApiSolution\HealthClaim.BAL\bin\Release\net6.0\HealthClaim.BAL.dll
+D:\10202023\HealthClaim.ApiSolution\HealthClaim.ApiSolution\HealthClaim.BAL\bin\Release\net6.0\HealthClaim.BAL.pdb
+D:\10202023\HealthClaim.ApiSolution\HealthClaim.ApiSolution\HealthClaim.BAL\bin\Release\net6.0\HealthClaim.DAL.dll
+D:\10202023\HealthClaim.ApiSolution\HealthClaim.ApiSolution\HealthClaim.BAL\bin\Release\net6.0\HealthClaim.Logger.dll
+D:\10202023\HealthClaim.ApiSolution\HealthClaim.ApiSolution\HealthClaim.BAL\bin\Release\net6.0\HealthClaim.Model.dll
+D:\10202023\HealthClaim.ApiSolution\HealthClaim.ApiSolution\HealthClaim.BAL\bin\Release\net6.0\HealthClaim.Utility.dll
+D:\10202023\HealthClaim.ApiSolution\HealthClaim.ApiSolution\HealthClaim.BAL\bin\Release\net6.0\HealthClaim.DAL.pdb
+D:\10202023\HealthClaim.ApiSolution\HealthClaim.ApiSolution\HealthClaim.BAL\bin\Release\net6.0\HealthClaim.Logger.pdb
+D:\10202023\HealthClaim.ApiSolution\HealthClaim.ApiSolution\HealthClaim.BAL\bin\Release\net6.0\HealthClaim.Model.pdb
+D:\10202023\HealthClaim.ApiSolution\HealthClaim.ApiSolution\HealthClaim.BAL\bin\Release\net6.0\HealthClaim.Utility.pdb
+D:\10202023\HealthClaim.ApiSolution\HealthClaim.ApiSolution\HealthClaim.BAL\obj\Release\net6.0\HealthClaim.BAL.csproj.AssemblyReference.cache
+D:\10202023\HealthClaim.ApiSolution\HealthClaim.ApiSolution\HealthClaim.BAL\obj\Release\net6.0\HealthClaim.BAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\10202023\HealthClaim.ApiSolution\HealthClaim.ApiSolution\HealthClaim.BAL\obj\Release\net6.0\HealthClaim.BAL.AssemblyInfoInputs.cache
+D:\10202023\HealthClaim.ApiSolution\HealthClaim.ApiSolution\HealthClaim.BAL\obj\Release\net6.0\HealthClaim.BAL.AssemblyInfo.cs
+D:\10202023\HealthClaim.ApiSolution\HealthClaim.ApiSolution\HealthClaim.BAL\obj\Release\net6.0\HealthClaim.BAL.csproj.CoreCompileInputs.cache
+D:\10202023\HealthClaim.ApiSolution\HealthClaim.ApiSolution\HealthClaim.BAL\obj\Release\net6.0\HealthClaim.BAL.csproj.CopyComplete
+D:\10202023\HealthClaim.ApiSolution\HealthClaim.ApiSolution\HealthClaim.BAL\obj\Release\net6.0\HealthClaim.BAL.dll
+D:\10202023\HealthClaim.ApiSolution\HealthClaim.ApiSolution\HealthClaim.BAL\obj\Release\net6.0\refint\HealthClaim.BAL.dll
+D:\10202023\HealthClaim.ApiSolution\HealthClaim.ApiSolution\HealthClaim.BAL\obj\Release\net6.0\HealthClaim.BAL.pdb
+D:\10202023\HealthClaim.ApiSolution\HealthClaim.ApiSolution\HealthClaim.BAL\obj\Release\net6.0\ref\HealthClaim.BAL.dll
+D:\10202023\Backup Kunal Code\HealthClaim.ApiSolution\HealthClaim.ApiSolution\HealthClaim.ApiSolution\HealthClaim.BAL\bin\Release\net6.0\HealthClaim.BAL.deps.json
+D:\10202023\Backup Kunal Code\HealthClaim.ApiSolution\HealthClaim.ApiSolution\HealthClaim.ApiSolution\HealthClaim.BAL\bin\Release\net6.0\HealthClaim.BAL.dll
+D:\10202023\Backup Kunal Code\HealthClaim.ApiSolution\HealthClaim.ApiSolution\HealthClaim.ApiSolution\HealthClaim.BAL\bin\Release\net6.0\HealthClaim.BAL.pdb
+D:\10202023\Backup Kunal Code\HealthClaim.ApiSolution\HealthClaim.ApiSolution\HealthClaim.ApiSolution\HealthClaim.BAL\bin\Release\net6.0\HealthClaim.DAL.dll
+D:\10202023\Backup Kunal Code\HealthClaim.ApiSolution\HealthClaim.ApiSolution\HealthClaim.ApiSolution\HealthClaim.BAL\bin\Release\net6.0\HealthClaim.Logger.dll
+D:\10202023\Backup Kunal Code\HealthClaim.ApiSolution\HealthClaim.ApiSolution\HealthClaim.ApiSolution\HealthClaim.BAL\bin\Release\net6.0\HealthClaim.Model.dll
+D:\10202023\Backup Kunal Code\HealthClaim.ApiSolution\HealthClaim.ApiSolution\HealthClaim.ApiSolution\HealthClaim.BAL\bin\Release\net6.0\HealthClaim.Utility.dll
+D:\10202023\Backup Kunal Code\HealthClaim.ApiSolution\HealthClaim.ApiSolution\HealthClaim.ApiSolution\HealthClaim.BAL\bin\Release\net6.0\HealthClaim.DAL.pdb
+D:\10202023\Backup Kunal Code\HealthClaim.ApiSolution\HealthClaim.ApiSolution\HealthClaim.ApiSolution\HealthClaim.BAL\bin\Release\net6.0\HealthClaim.Logger.pdb
+D:\10202023\Backup Kunal Code\HealthClaim.ApiSolution\HealthClaim.ApiSolution\HealthClaim.ApiSolution\HealthClaim.BAL\bin\Release\net6.0\HealthClaim.Model.pdb
+D:\10202023\Backup Kunal Code\HealthClaim.ApiSolution\HealthClaim.ApiSolution\HealthClaim.ApiSolution\HealthClaim.BAL\bin\Release\net6.0\HealthClaim.Utility.pdb
+D:\10202023\Backup Kunal Code\HealthClaim.ApiSolution\HealthClaim.ApiSolution\HealthClaim.ApiSolution\HealthClaim.BAL\obj\Release\net6.0\HealthClaim.BAL.csproj.AssemblyReference.cache
+D:\10202023\Backup Kunal Code\HealthClaim.ApiSolution\HealthClaim.ApiSolution\HealthClaim.ApiSolution\HealthClaim.BAL\obj\Release\net6.0\HealthClaim.BAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\10202023\Backup Kunal Code\HealthClaim.ApiSolution\HealthClaim.ApiSolution\HealthClaim.ApiSolution\HealthClaim.BAL\obj\Release\net6.0\HealthClaim.BAL.AssemblyInfoInputs.cache
+D:\10202023\Backup Kunal Code\HealthClaim.ApiSolution\HealthClaim.ApiSolution\HealthClaim.ApiSolution\HealthClaim.BAL\obj\Release\net6.0\HealthClaim.BAL.AssemblyInfo.cs
+D:\10202023\Backup Kunal Code\HealthClaim.ApiSolution\HealthClaim.ApiSolution\HealthClaim.ApiSolution\HealthClaim.BAL\obj\Release\net6.0\HealthClaim.BAL.csproj.CoreCompileInputs.cache
+D:\10202023\Backup Kunal Code\HealthClaim.ApiSolution\HealthClaim.ApiSolution\HealthClaim.ApiSolution\HealthClaim.BAL\obj\Release\net6.0\HealthClaim.BAL.csproj.CopyComplete
+D:\10202023\Backup Kunal Code\HealthClaim.ApiSolution\HealthClaim.ApiSolution\HealthClaim.ApiSolution\HealthClaim.BAL\obj\Release\net6.0\HealthClaim.BAL.dll
+D:\10202023\Backup Kunal Code\HealthClaim.ApiSolution\HealthClaim.ApiSolution\HealthClaim.ApiSolution\HealthClaim.BAL\obj\Release\net6.0\refint\HealthClaim.BAL.dll
+D:\10202023\Backup Kunal Code\HealthClaim.ApiSolution\HealthClaim.ApiSolution\HealthClaim.ApiSolution\HealthClaim.BAL\obj\Release\net6.0\HealthClaim.BAL.pdb
+D:\10202023\Backup Kunal Code\HealthClaim.ApiSolution\HealthClaim.ApiSolution\HealthClaim.ApiSolution\HealthClaim.BAL\obj\Release\net6.0\ref\HealthClaim.BAL.dll
+D:\10202023\HealthClaim.ApiSolution\HealthClaim.BAL\bin\Release\net6.0\HealthClaim.BAL.deps.json
+D:\10202023\HealthClaim.ApiSolution\HealthClaim.BAL\bin\Release\net6.0\HealthClaim.BAL.dll
+D:\10202023\HealthClaim.ApiSolution\HealthClaim.BAL\bin\Release\net6.0\HealthClaim.BAL.pdb
+D:\10202023\HealthClaim.ApiSolution\HealthClaim.BAL\bin\Release\net6.0\HealthClaim.DAL.dll
+D:\10202023\HealthClaim.ApiSolution\HealthClaim.BAL\bin\Release\net6.0\HealthClaim.Logger.dll
+D:\10202023\HealthClaim.ApiSolution\HealthClaim.BAL\bin\Release\net6.0\HealthClaim.Model.dll
+D:\10202023\HealthClaim.ApiSolution\HealthClaim.BAL\bin\Release\net6.0\HealthClaim.Utility.dll
+D:\10202023\HealthClaim.ApiSolution\HealthClaim.BAL\bin\Release\net6.0\HealthClaim.DAL.pdb
+D:\10202023\HealthClaim.ApiSolution\HealthClaim.BAL\bin\Release\net6.0\HealthClaim.Logger.pdb
+D:\10202023\HealthClaim.ApiSolution\HealthClaim.BAL\bin\Release\net6.0\HealthClaim.Model.pdb
+D:\10202023\HealthClaim.ApiSolution\HealthClaim.BAL\bin\Release\net6.0\HealthClaim.Utility.pdb
+D:\10202023\HealthClaim.ApiSolution\HealthClaim.BAL\obj\Release\net6.0\HealthClaim.BAL.csproj.AssemblyReference.cache
+D:\10202023\HealthClaim.ApiSolution\HealthClaim.BAL\obj\Release\net6.0\HealthClaim.BAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\10202023\HealthClaim.ApiSolution\HealthClaim.BAL\obj\Release\net6.0\HealthClaim.BAL.AssemblyInfoInputs.cache
+D:\10202023\HealthClaim.ApiSolution\HealthClaim.BAL\obj\Release\net6.0\HealthClaim.BAL.AssemblyInfo.cs
+D:\10202023\HealthClaim.ApiSolution\HealthClaim.BAL\obj\Release\net6.0\HealthClaim.BAL.csproj.CoreCompileInputs.cache
+D:\10202023\HealthClaim.ApiSolution\HealthClaim.BAL\obj\Release\net6.0\HealthClaim.BAL.csproj.CopyComplete
+D:\10202023\HealthClaim.ApiSolution\HealthClaim.BAL\obj\Release\net6.0\HealthClaim.BAL.dll
+D:\10202023\HealthClaim.ApiSolution\HealthClaim.BAL\obj\Release\net6.0\refint\HealthClaim.BAL.dll
+D:\10202023\HealthClaim.ApiSolution\HealthClaim.BAL\obj\Release\net6.0\HealthClaim.BAL.pdb
+D:\10202023\HealthClaim.ApiSolution\HealthClaim.BAL\obj\Release\net6.0\ref\HealthClaim.BAL.dll
+E:\OfficeWork\CETPAWork\dfccil.com\DFCCIL_HealthClaim\21Oct2023\Two\HealthClaim.ApiSolution\HealthClaim.BAL\bin\Release\net6.0\HealthClaim.BAL.deps.json
+E:\OfficeWork\CETPAWork\dfccil.com\DFCCIL_HealthClaim\21Oct2023\Two\HealthClaim.ApiSolution\HealthClaim.BAL\bin\Release\net6.0\HealthClaim.BAL.dll
+E:\OfficeWork\CETPAWork\dfccil.com\DFCCIL_HealthClaim\21Oct2023\Two\HealthClaim.ApiSolution\HealthClaim.BAL\bin\Release\net6.0\HealthClaim.BAL.pdb
+E:\OfficeWork\CETPAWork\dfccil.com\DFCCIL_HealthClaim\21Oct2023\Two\HealthClaim.ApiSolution\HealthClaim.BAL\bin\Release\net6.0\HealthClaim.DAL.dll
+E:\OfficeWork\CETPAWork\dfccil.com\DFCCIL_HealthClaim\21Oct2023\Two\HealthClaim.ApiSolution\HealthClaim.BAL\bin\Release\net6.0\HealthClaim.Logger.dll
+E:\OfficeWork\CETPAWork\dfccil.com\DFCCIL_HealthClaim\21Oct2023\Two\HealthClaim.ApiSolution\HealthClaim.BAL\bin\Release\net6.0\HealthClaim.Model.dll
+E:\OfficeWork\CETPAWork\dfccil.com\DFCCIL_HealthClaim\21Oct2023\Two\HealthClaim.ApiSolution\HealthClaim.BAL\bin\Release\net6.0\HealthClaim.Utility.dll
+E:\OfficeWork\CETPAWork\dfccil.com\DFCCIL_HealthClaim\21Oct2023\Two\HealthClaim.ApiSolution\HealthClaim.BAL\bin\Release\net6.0\HealthClaim.DAL.pdb
+E:\OfficeWork\CETPAWork\dfccil.com\DFCCIL_HealthClaim\21Oct2023\Two\HealthClaim.ApiSolution\HealthClaim.BAL\bin\Release\net6.0\HealthClaim.Logger.pdb
+E:\OfficeWork\CETPAWork\dfccil.com\DFCCIL_HealthClaim\21Oct2023\Two\HealthClaim.ApiSolution\HealthClaim.BAL\bin\Release\net6.0\HealthClaim.Model.pdb
+E:\OfficeWork\CETPAWork\dfccil.com\DFCCIL_HealthClaim\21Oct2023\Two\HealthClaim.ApiSolution\HealthClaim.BAL\bin\Release\net6.0\HealthClaim.Utility.pdb
+E:\OfficeWork\CETPAWork\dfccil.com\DFCCIL_HealthClaim\21Oct2023\Two\HealthClaim.ApiSolution\HealthClaim.BAL\obj\Release\net6.0\HealthClaim.BAL.csproj.AssemblyReference.cache
+E:\OfficeWork\CETPAWork\dfccil.com\DFCCIL_HealthClaim\21Oct2023\Two\HealthClaim.ApiSolution\HealthClaim.BAL\obj\Release\net6.0\HealthClaim.BAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\OfficeWork\CETPAWork\dfccil.com\DFCCIL_HealthClaim\21Oct2023\Two\HealthClaim.ApiSolution\HealthClaim.BAL\obj\Release\net6.0\HealthClaim.BAL.AssemblyInfoInputs.cache
+E:\OfficeWork\CETPAWork\dfccil.com\DFCCIL_HealthClaim\21Oct2023\Two\HealthClaim.ApiSolution\HealthClaim.BAL\obj\Release\net6.0\HealthClaim.BAL.AssemblyInfo.cs
+E:\OfficeWork\CETPAWork\dfccil.com\DFCCIL_HealthClaim\21Oct2023\Two\HealthClaim.ApiSolution\HealthClaim.BAL\obj\Release\net6.0\HealthClaim.BAL.csproj.CoreCompileInputs.cache
+E:\OfficeWork\CETPAWork\dfccil.com\DFCCIL_HealthClaim\21Oct2023\Two\HealthClaim.ApiSolution\HealthClaim.BAL\obj\Release\net6.0\HealthClaim.BAL.csproj.CopyComplete
+E:\OfficeWork\CETPAWork\dfccil.com\DFCCIL_HealthClaim\21Oct2023\Two\HealthClaim.ApiSolution\HealthClaim.BAL\obj\Release\net6.0\HealthClaim.BAL.dll
+E:\OfficeWork\CETPAWork\dfccil.com\DFCCIL_HealthClaim\21Oct2023\Two\HealthClaim.ApiSolution\HealthClaim.BAL\obj\Release\net6.0\refint\HealthClaim.BAL.dll
+E:\OfficeWork\CETPAWork\dfccil.com\DFCCIL_HealthClaim\21Oct2023\Two\HealthClaim.ApiSolution\HealthClaim.BAL\obj\Release\net6.0\HealthClaim.BAL.pdb
+E:\OfficeWork\CETPAWork\dfccil.com\DFCCIL_HealthClaim\21Oct2023\Two\HealthClaim.ApiSolution\HealthClaim.BAL\obj\Release\net6.0\ref\HealthClaim.BAL.dll
+D:\10222023\HealthClaim.ApiSolution\HealthClaim.BAL\bin\Release\net6.0\HealthClaim.BAL.deps.json
+D:\10222023\HealthClaim.ApiSolution\HealthClaim.BAL\bin\Release\net6.0\HealthClaim.BAL.dll
+D:\10222023\HealthClaim.ApiSolution\HealthClaim.BAL\bin\Release\net6.0\HealthClaim.BAL.pdb
+D:\10222023\HealthClaim.ApiSolution\HealthClaim.BAL\bin\Release\net6.0\HealthClaim.DAL.dll
+D:\10222023\HealthClaim.ApiSolution\HealthClaim.BAL\bin\Release\net6.0\HealthClaim.Logger.dll
+D:\10222023\HealthClaim.ApiSolution\HealthClaim.BAL\bin\Release\net6.0\HealthClaim.Model.dll
+D:\10222023\HealthClaim.ApiSolution\HealthClaim.BAL\bin\Release\net6.0\HealthClaim.Utility.dll
+D:\10222023\HealthClaim.ApiSolution\HealthClaim.BAL\bin\Release\net6.0\HealthClaim.DAL.pdb
+D:\10222023\HealthClaim.ApiSolution\HealthClaim.BAL\bin\Release\net6.0\HealthClaim.Logger.pdb
+D:\10222023\HealthClaim.ApiSolution\HealthClaim.BAL\bin\Release\net6.0\HealthClaim.Model.pdb
+D:\10222023\HealthClaim.ApiSolution\HealthClaim.BAL\bin\Release\net6.0\HealthClaim.Utility.pdb
+D:\10222023\HealthClaim.ApiSolution\HealthClaim.BAL\obj\Release\net6.0\HealthClaim.BAL.csproj.AssemblyReference.cache
+D:\10222023\HealthClaim.ApiSolution\HealthClaim.BAL\obj\Release\net6.0\HealthClaim.BAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\10222023\HealthClaim.ApiSolution\HealthClaim.BAL\obj\Release\net6.0\HealthClaim.BAL.AssemblyInfoInputs.cache
+D:\10222023\HealthClaim.ApiSolution\HealthClaim.BAL\obj\Release\net6.0\HealthClaim.BAL.AssemblyInfo.cs
+D:\10222023\HealthClaim.ApiSolution\HealthClaim.BAL\obj\Release\net6.0\HealthClaim.BAL.csproj.CoreCompileInputs.cache
+D:\10222023\HealthClaim.ApiSolution\HealthClaim.BAL\obj\Release\net6.0\HealthClaim.BAL.csproj.CopyComplete
+D:\10222023\HealthClaim.ApiSolution\HealthClaim.BAL\obj\Release\net6.0\HealthClaim.BAL.dll
+D:\10222023\HealthClaim.ApiSolution\HealthClaim.BAL\obj\Release\net6.0\refint\HealthClaim.BAL.dll
+D:\10222023\HealthClaim.ApiSolution\HealthClaim.BAL\obj\Release\net6.0\HealthClaim.BAL.pdb
+D:\10222023\HealthClaim.ApiSolution\HealthClaim.BAL\obj\Release\net6.0\ref\HealthClaim.BAL.dll

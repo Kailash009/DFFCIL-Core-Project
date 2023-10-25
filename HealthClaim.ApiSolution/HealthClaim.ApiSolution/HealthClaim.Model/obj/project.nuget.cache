@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "TNGTj4GMlze/EfnykcVsJECqN//IF5fAjsECE5P0jvazVBQsra+ACk7I1LsbsHjS7qVdwHB1NawU9FGe5vhClQ==",
+  "success": true,
+  "projectFilePath": "D:\\10222023\\HealthClaim.ApiSolution\\HealthClaim.Model\\HealthClaim.Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\VINAY IT\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
+    "C:\\Users\\VINAY IT\\.nuget\\packages\\microsoft.extensions.primitives\\2.2.0\\microsoft.extensions.primitives.2.2.0.nupkg.sha512",
+    "C:\\Users\\VINAY IT\\.nuget\\packages\\system.memory\\4.5.1\\system.memory.4.5.1.nupkg.sha512",
+    "C:\\Users\\VINAY IT\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.1\\system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}

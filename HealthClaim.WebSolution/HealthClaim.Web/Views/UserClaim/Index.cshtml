@@ -1,0 +1,290 @@
+﻿@{
+    ViewData["Title"] = "User Dashboard";
+
+}
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+<style>
+    .mySlides {
+        display: none;
+    }
+
+    .card-people .weather-info {
+        position: absolute;
+        top: 90%;
+        width: 97%;
+        border-radius: 20px;
+        padding: 7px;
+        background: #00031a75;
+        left: 20%;
+        color: #fff;
+        transform: translate(-20%, -90%);
+    }
+
+    .card-people {
+        padding-top: 0px !important;
+    }
+
+    .card.tale-bg {
+        background: #f5f7ff !important;
+    }
+
+    .long-card {
+        height: 160px;
+    }
+
+    .emp-top-info {
+        font-size: 24px;
+        gap: 20px;
+        border-right: 2px solid #fff;
+        height: 53px;
+    }
+
+        .emp-top-info p {
+            font-size: 24px;
+        }
+
+    .status-info {
+        border-right: 2px solid #fff;
+    }
+
+    .status-info-head {
+        position: relative;
+    }
+
+        .status-info-head::after {
+            content: '______';
+            position: absolute;
+            top: 50%;
+            padding-top: 7px;
+            font-weight: 700;
+            font-size: 15px;
+            left: 50%;
+            transform: translate(-50%,-50%);
+        }
+
+    .feature {
+        font-size: 21px;
+    }
+
+    @@media screen and (max-width: 600px) {
+        .emp-top-info {
+            border: none;
+            justify-content: center;
+        }
+
+        .status-info {
+            border-right: none;
+            border-bottom: 1px solid #fff;
+        }
+    }
+</style>
+<link href="~/css/custom/dfccil1011_03.css" rel="stylesheet" />
+
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<div class="row">
+    <div class="col-md-12 grid-margin">
+        <div class="row">
+            <div class="col-12 col-xl-8 mb-4 mb-xl-0">
+                <h3 class="font-weight-bold">Welcome Anil Singh</h3>
+                <h6 class="font-weight-normal mb-0">All systems are running smoothly! You have <span class="text-primary">3 unread alerts!</span></h6>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-12 mb-5 stretch-card transparent">
+        <div class="card card-tale">
+            <div class="row card-body">
+                <div class="col-md-4">
+                    <div class="d-flex emp-top-info align-items-center">
+                        <p><i class="fa-solid fa-person-circle-check"></i></p>
+                        <p class="emp-top-para">Your Status</p>
+                    </div>
+                </div>
+                <div class="col-md-8">
+                    <div class="row">
+                        <div class="col-md-4 text-center">
+                            <p class="status-info-head">Total Limit</p>
+                            <p><span id="spnTotalLimit">1000000.00</span></p>
+                        </div>
+                        <div class="col-md-4 text-center status-info">
+                            <p class="status-info-head">Total Request Amount</p>
+                            <p><i class="fa-solid fa-indian-rupee-sign"></i> <span id="spnTotalRequestAmount">61344.00</span> </p>
+                        </div>
+                        <div class="col-md-4 text-center status-info">
+                            <p class="status-info-head">
+                                Recent Claim Status
+
+                            </p>
+                            <p><i class="fa-solid fa-indian-rupee-sign"></i> <span id="spnRecentClaimStatus">Approved</span></p>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-6 grid-margin stretch-card">
+        <div class="mySlides card tale-bg">
+            <div class="card-people">
+                <img src="https://dfccil.com/images/uploads/img/Hon'ble-Prime-Minister-Sh.-Narendra-Modi-inaugurated-Rewari---Madar-section-(306-km)-of-WDFC._7OXS.jpg" alt="people">
+                <div class="weather-info">
+                    <h4>Jan 2021</h4>
+                    <p>
+                        Hon'ble Prime Minister Sh. Narendra Modi inaugurated Rewari - Madar section (306 km) of WDFC.
+                    </p>
+                    <!--div class="d-flex">
+                        <div>
+                            <h2 class="mb-0 font-weight-normal"><i class="icon-sun mr-2"></i>31<sup>C</sup></h2>
+                        </div>
+                        <div class="ml-2">
+                            <h4 class="location font-weight-normal">Delhi</h4>
+                            <h6 class="font-weight-normal">India</h6>
+                        </div>
+                    </div-->
+                </div>
+            </div>
+        </div>
+        <div class="mySlides card tale-bg">
+            <div class="card-people">
+                <img src="https://dfccil.com/images/uploads/img/Bhestan-Sanjan_QSTL.jpg" alt="people">
+                <div class="weather-info">
+                    <h4>Jan 2021</h4>
+                    <p>
+                        Sujatpur-Karchana (62 km) section of EDFC was commissioned on 31.12.2022. With commissioning of this section, continuous connectivity of 327 km from Bhimsen to Chheoki was achieved on EDFC
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="mySlides card tale-bg">
+            <div class="card-people">
+                <img src="https://dfccil.com/images/uploads/img/Trial-run-of-freight-train-in-Madar-New-Palanpur-section-(353-km)-of-WDFC-was-conducted-on-31.03.2021._TM9Y.jpg" alt="people">
+                <div class="weather-info">
+                    <h4>Jan 2021</h4>
+                    <p>
+                        Trial run of freight train in Madar-New Palanpur section (353 km) of WDFC was conducted on 31.03.2021. Trial run of Electric Locomotive was conducted in Ganjkhwaja-Chirailpathu section (100 km) of EDFC on 31.03.2021.
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="mySlides card tale-bg">
+            <div class="card-people">
+                <img src="https://dfccil.com/images/uploads/img/Bhestan-Sanjan_QSTL.jpg" alt="people">
+                <div class="weather-info">
+                    <h4>Jan 2021</h4>
+                    <p>
+                        Bhestan- Sanjan BG double line electrified section (108 km) of WDFC was commissioned along with IR connectivity on 31.03.2023.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-6 grid-margin transparent">
+        <div class="row align-items-center">
+            <div class="col-md-6 mb-4 stretch-card transparent">
+                <div class="card card-tale">
+                    <div class="card-body">
+                        <p class="mb-4">Total Notification</p>
+                        <p class="fs-30 mb-2">20</p>
+                        @*<p>10.00% (30 days)</p>*@
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 mb-4 stretch-card transparent">
+                <div class="card card-dark-blue">
+                    <div class="card-body">
+                        <p class="mb-4">Advance Pay</p>
+                        <p class="fs-30 mb-2">61344</p>
+                        @*<p>22.00% (30 days)</p>*@
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-6 mb-4 mb-lg-0 stretch-card transparent">
+                <div class="card card-light-blue">
+                    <div class="card-body">
+                        <p class="mb-4">Claim</p>
+                        <p class="fs-30 mb-2">34040</p>
+                        @*<p>2.00% (30 days)</p>*@
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 stretch-card transparent">
+                <div class="card card-light-danger">
+                    <div class="card-body">
+                        <p class="mb-4">Other</p>
+                        <p class="fs-30 mb-2">47033</p>
+                        @* <p>0.22% (30 days)</p>*@
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-6 mb-4 stretch-card transparent">
+        <div class="card card-tale long-card">
+            <div class="card-body text-center">
+                <p class="feature mt-4 mb-4"><i class="fa-solid fa-arrow-up-wide-short"></i> No of Claim Approved</p>
+                <p class="fs-30 mb-2" id="counter1">0000.000</p>
+                @*<p>10.00% (30 days)</p>*@
+            </div>
+        </div>
+    </div>
+    <div class="col-md-6 mb-4 stretch-card transparent">
+        <div class="card card-dark-blue long-card">
+            <div class="card-body text-center">
+                <p class="feature mt-4 mb-4"><i class="fa-solid fa-money-bill-wave"></i> Total Amount of Approved</p>
+                <p class="fs-30 mb-2" id="counter2"><i class="fa-solid fa-indian-rupee-sign"></i> 0000.000</p>
+                @*<p>22.00% (30 days)</p>*@
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    var myIndex = 0;
+    carousel();
+
+    function carousel() {
+        var i;
+        var x = document.getElementsByClassName("mySlides");
+        for (i = 0; i < x.length; i++) {
+            x[i].style.display = "none";
+        }
+        myIndex++;
+        if (myIndex > x.length) { myIndex = 1 }
+        x[myIndex - 1].style.display = "block";
+        setTimeout(carousel, 4000); // Change image every 2 seconds
+    }
+</script>
+
+<script>
+    // Function to count numbers for a specific div
+    function countTo(elementId, start, end, duration) {
+        const element = document.getElementById(elementId);
+        const range = end - start;
+        const increment = range / (duration / 30); // Adjust the number 30 for speed
+
+        let current = start;
+        const timer = setInterval(() => {
+            current += increment;
+            element.textContent = Math.round(current);
+
+            if (current >= end) {
+                clearInterval(timer);
+                element.textContent = end;
+            }
+        }, 30);
+    }
+
+    // Usage example: Count from 0 to 1000 over 2 seconds for each div
+
+    countTo("counter2", 0, 0000.00, 3000);
+    countTo("counter1", 0, 0000, 3000);
+</script>
+
+<script src="~/customjs/Dashboard/Index.js" asp-append-version="true"></script>
